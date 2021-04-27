@@ -1,0 +1,2704 @@
+2020-10-13 18:49:48,165 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/command.py", line 55, in command
+    respond = data.decode(encoding="utf-8")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xcc in position 0: invalid continuation byte
+2020-10-22 18:43:08,734 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/command.py", line 55, in command
+    respond = data.decode(encoding="utf-8")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xcc in position 0: invalid continuation byte
+2020-10-22 18:50:35,596 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:50:36,484 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:50:36,653 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:50:37,040 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:50:38,851 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:50:39,030 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:50:39,207 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:50:39,380 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:50:39,916 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:04,049 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:07,449 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:07,619 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:08,163 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:08,338 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:08,516 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:08,696 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:08,872 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:09,047 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:09,220 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:09,395 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:09,569 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:09,920 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:10,978 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:11,155 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:11,332 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:11,687 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:11,866 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:12,766 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:12,938 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:13,108 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:13,461 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:13,631 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:13,807 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 18:52:15,775 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:02:00,288 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/command.py", line 55, in command
+    respond = data.decode(encoding="utf-8")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xcc in position 0: invalid continuation byte
+2020-10-22 19:04:06,079 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:04:06,250 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:04:06,789 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:04:07,150 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:04:07,326 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:04:07,499 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:04:07,672 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:04:08,389 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:04:08,910 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:04:10,339 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:04:10,514 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:04:10,691 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:04:10,865 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:34,990 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:35,166 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:35,512 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:35,689 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:35,860 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:36,030 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:36,203 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:36,376 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:36,548 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:36,716 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:36,889 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:37,058 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:37,229 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:37,397 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:37,567 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:37,738 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:37,908 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:38,077 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:39,669 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:40,206 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:42,870 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:43,397 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:05:51,230 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/command.py", line 41, in command
+    if 'end' in msg:
+TypeError: a bytes-like object is required, not 'str'
+2020-10-22 19:08:40,374 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:42,742 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:43,452 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:43,628 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:43,801 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:43,977 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:44,149 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:44,322 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:44,697 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:44,868 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:45,039 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:45,208 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:45,377 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:45,735 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:45,905 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:46,084 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:46,269 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:46,451 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:46,628 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:46,802 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:46,975 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:48,386 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:48,555 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:48,730 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:48,900 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:49,074 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:49,242 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:49,594 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:49,771 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:49,951 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:50,125 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:50,302 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:50,660 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:50,833 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:51,006 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:51,182 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:51,360 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:51,530 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:51,700 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:51,868 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:52,041 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:52,210 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:52,384 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:52,554 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:52,725 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:52,896 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:53,068 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:53,237 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:53,408 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:53,579 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:53,752 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:53,926 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:54,101 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:54,284 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:54,476 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:54,658 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:54,834 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:55,565 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:55,736 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:56,259 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:56,429 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:56,602 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:58,372 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:58,549 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:58,723 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:58,895 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:59,250 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:59,423 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:59,592 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:59,763 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:08:59,933 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:00,106 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:00,278 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:00,450 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:00,619 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:00,790 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:00,960 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:01,132 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:01,300 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:01,477 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:01,658 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:01,839 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:02,017 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:02,199 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:02,376 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:02,550 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:02,721 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:02,896 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:03,069 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:03,243 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:03,419 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:03,592 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:03,766 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:03,940 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:04,110 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:04,281 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:04,452 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:04,621 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:04,792 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:04,963 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:05,132 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:05,480 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:05,649 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:05,816 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:05,986 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:06,155 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:06,327 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:06,505 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:06,686 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:06,866 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:07,040 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:07,218 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:07,396 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:07,574 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:07,747 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:07,922 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:08,098 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:08,270 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:08,444 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:08,620 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:08,793 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:08,966 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:09,137 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:09,307 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:09,482 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:09,654 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:09,824 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:09,999 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:10,170 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:10,340 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:10,515 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:10,686 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:10,862 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:11,037 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:11,213 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:11,391 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:11,573 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:11,746 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:11,919 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:12,094 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:12,274 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:12,456 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:12,641 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:12,827 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:13,006 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:13,185 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:13,361 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:13,540 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:13,725 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:13,907 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:14,084 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:14,263 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:14,633 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:14,818 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:15,001 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:15,181 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:15,357 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:15,535 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:15,716 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:15,893 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:16,074 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:16,256 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:16,444 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:16,631 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:16,812 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:16,995 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:17,179 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:17,355 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:17,531 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:17,709 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:17,885 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:18,062 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:18,238 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:18,422 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:18,602 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:18,784 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:18,966 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:19,508 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:19,683 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:19,857 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:20,039 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:20,216 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:20,394 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:20,576 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:20,756 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:20,932 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:21,116 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:21,297 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:21,475 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:21,654 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:21,831 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:22,009 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:22,189 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:22,368 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:22,551 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:22,734 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:22,916 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:23,100 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:23,279 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:23,461 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:23,639 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:23,823 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:24,006 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:24,186 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:24,365 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:24,541 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:24,716 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:24,896 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:25,075 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:25,253 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:25,442 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:25,625 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:25,805 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:26,002 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:26,194 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:26,373 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:26,549 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:26,725 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:26,904 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:27,089 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:27,278 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:27,476 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:27,660 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:27,847 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:28,030 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:28,213 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-10-22 19:09:28,395 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/video.py", line 28, in video
+    cv2.imshow('frame', object_detection_api_video(frame))
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 85, in object_detection_api_video
+    boxes, pred_cls = get_prediction_video(img, threshold)
+  File "/home/mrmopoz/git/vscode/Tello/process_video.py", line 60, in get_prediction_video
+    pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
+IndexError: list index out of range
+2020-11-18 20:05:01,194 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/command.py", line 33, in command
+    if command.empty():
+AttributeError: 'collections.deque' object has no attribute 'empty'
+2020-11-18 20:07:32,260 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/command.py", line 33, in command
+    if command.empty():
+AttributeError: 'collections.deque' object has no attribute 'empty'
+2020-11-18 20:22:08,563 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/command.py", line 44, in command
+    resp = data.decode(encoding="utf-8")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xcc in position 0: invalid continuation byte
+2020-11-19 14:28:48,328 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/vscode/Tello/command.py", line 44, in command
+    resp = data.decode(encoding="utf-8")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xcc in position 0: invalid continuation byte

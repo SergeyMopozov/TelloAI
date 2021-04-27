@@ -1,0 +1,1526 @@
+2020-10-13 18:49:48,147 INFO Sent message: b'command'
+2020-10-13 18:50:05,745 INFO Sent message: b'command'
+2020-10-13 18:50:05,766 INFO Respond: ok
+2020-10-13 18:50:05,767 INFO Sent message: b'streamon'
+2020-10-13 18:50:05,817 INFO Respond: ok
+2020-10-13 18:50:10,202 INFO Start video
+2020-10-13 18:51:07,672 INFO Sent message: b'command'
+2020-10-13 18:51:07,768 INFO Respond: ok
+2020-10-13 18:51:10,675 INFO Sent message: b'streamon'
+2020-10-13 18:51:10,725 INFO Respond: ok
+2020-10-13 18:51:12,054 INFO Start video
+2020-10-13 18:51:13,677 INFO Sent message: b'takeoff'
+2020-10-13 18:51:22,466 INFO Respond: ok
+2020-10-13 18:51:22,466 INFO Sent message: b'right 20'
+2020-10-13 18:51:24,395 INFO Respond: ok
+2020-10-13 18:51:24,395 INFO Sent message: b'up 50'
+2020-10-13 18:51:26,793 INFO Respond: error No valid imu
+2020-10-13 18:51:26,794 INFO Sent message: b'forward 40'
+2020-10-13 18:51:27,050 INFO Respond: error No valid imu
+2020-10-13 18:51:27,051 INFO Sent message: b'left 20'
+2020-10-13 18:51:27,305 INFO Respond: error No valid imu
+2020-10-13 18:51:28,691 INFO Sent message: b'cw 270'
+2020-10-13 18:51:28,939 INFO Respond: error No valid imu
+2020-10-13 18:51:31,694 INFO Sent message: b'forward 50'
+2020-10-13 18:51:31,947 INFO Respond: error No valid imu
+2020-10-13 18:51:34,696 INFO Sent message: b'land'
+2020-10-13 18:51:34,705 INFO Respond: error
+2020-10-13 18:51:37,699 INFO end session
+2020-10-13 18:51:51,344 INFO Stop video
+2020-10-13 18:51:57,795 INFO Sent message: b'command'
+2020-10-13 18:51:57,826 INFO Respond: ok
+2020-10-13 18:52:00,799 INFO Sent message: b'streamon'
+2020-10-13 18:52:00,833 INFO Respond: ok
+2020-10-13 18:52:02,188 INFO Start video
+2020-10-13 18:52:03,800 INFO Sent message: b'takeoff'
+2020-10-13 18:52:10,229 INFO Respond: ok
+2020-10-13 18:52:10,230 INFO Sent message: b'right 20'
+2020-10-13 18:52:12,015 INFO Respond: ok
+2020-10-13 18:52:12,016 INFO Sent message: b'up 50'
+2020-10-13 18:52:14,364 INFO Respond: ok
+2020-10-13 18:52:14,364 INFO Sent message: b'forward 40'
+2020-10-13 18:52:16,203 INFO Respond: ok
+2020-10-13 18:52:16,204 INFO Sent message: b'left 20'
+2020-10-13 18:52:17,782 INFO Respond: ok
+2020-10-13 18:52:18,813 INFO Sent message: b'cw 270'
+2020-10-13 18:52:23,854 INFO Respond: ok
+2020-10-13 18:52:23,855 INFO Sent message: b'forward 50'
+2020-10-13 18:52:25,947 INFO Respond: ok
+2020-10-13 18:52:25,947 INFO Sent message: b'land'
+2020-10-13 18:52:29,161 INFO Respond: ok
+2020-10-13 18:52:29,162 INFO end session
+2020-10-13 18:52:34,218 INFO Stop video
+2020-10-13 18:59:09,340 INFO Sent message: b'command'
+2020-10-13 18:59:09,366 INFO Respond: ok
+2020-10-13 18:59:12,342 INFO Sent message: b'streamon'
+2020-10-13 18:59:12,374 INFO Respond: ok
+2020-10-13 18:59:15,346 INFO Sent message: b'takeoff'
+2020-10-13 18:59:16,953 INFO Start video
+2020-10-13 18:59:22,062 INFO Respond: ok
+2020-10-13 18:59:22,063 INFO Sent message: b'right 20'
+2020-10-13 18:59:23,950 INFO Respond: ok
+2020-10-13 18:59:23,950 INFO Sent message: b'up 50'
+2020-10-13 18:59:26,349 INFO Respond: ok
+2020-10-13 18:59:26,349 INFO Sent message: b'forward 40'
+2020-10-13 18:59:28,132 INFO Respond: ok
+2020-10-13 18:59:28,132 INFO Sent message: b'left 20'
+2020-10-13 18:59:29,870 INFO Respond: ok
+2020-10-13 18:59:30,360 INFO Sent message: b'cw 270'
+2020-10-13 18:59:35,429 INFO Respond: ok
+2020-10-13 18:59:35,429 INFO Sent message: b'forward 50'
+2020-10-13 18:59:37,776 INFO Respond: ok
+2020-10-13 18:59:37,777 INFO Sent message: b'land'
+2020-10-13 18:59:42,266 INFO Respond: ok
+2020-10-13 18:59:42,266 INFO end session
+2020-10-13 18:59:54,456 INFO Stop video
+2020-10-13 19:02:34,247 INFO Sent message: b'command'
+2020-10-13 19:02:34,294 INFO Respond: ok
+2020-10-13 19:02:38,871 INFO Start video
+2020-10-13 19:02:40,266 INFO Sent message: b'streamon'
+2020-10-13 19:02:40,311 INFO Respond: ok
+2020-10-13 19:02:43,274 INFO Sent message: b'takeoff'
+2020-10-13 19:02:49,392 INFO Respond: ok
+2020-10-13 19:02:49,392 INFO Sent message: b'right 20'
+2020-10-13 19:02:50,922 INFO Respond: ok
+2020-10-13 19:02:50,922 INFO Sent message: b'up 50'
+2020-10-13 19:02:53,323 INFO Respond: ok
+2020-10-13 19:02:53,323 INFO Sent message: b'forward 40'
+2020-10-13 19:02:55,007 INFO Respond: ok
+2020-10-13 19:02:55,313 INFO Sent message: b'left 20'
+2020-10-13 19:02:57,762 INFO Respond: ok
+2020-10-13 19:02:58,338 INFO Sent message: b'cw 270'
+2020-10-13 19:03:03,479 INFO Respond: ok
+2020-10-13 19:03:03,479 INFO Sent message: b'forward 50'
+2020-10-13 19:03:05,516 INFO Respond: ok
+2020-10-13 19:03:05,516 INFO Sent message: b'land'
+2020-10-13 19:03:10,056 INFO Respond: ok
+2020-10-13 19:03:19,508 INFO Stop video
+2020-10-22 18:43:08,642 INFO Sent message: b'command'
+2020-10-22 18:43:43,940 INFO Sent message: b'command'
+2020-10-22 18:43:43,952 INFO Respond: ok
+2020-10-22 18:43:49,957 INFO Sent message: b'streamon'
+2020-10-22 18:43:49,971 INFO Respond: ok
+2020-10-22 18:43:52,965 INFO Sent message: b'takeoff'
+2020-10-22 18:43:54,256 INFO Start video
+2020-10-22 18:43:59,155 INFO Respond: ok
+2020-10-22 18:43:59,155 INFO Sent message: b'right 20'
+2020-10-22 18:44:01,196 INFO Respond: ok
+2020-10-22 18:44:01,196 INFO Sent message: b'up 50'
+2020-10-22 18:44:03,849 INFO Respond: ok
+2020-10-22 18:44:03,849 INFO Sent message: b'forward 40'
+2020-10-22 18:44:05,430 INFO Respond: ok
+2020-10-22 18:44:05,431 INFO Sent message: b'left 20'
+2020-10-22 18:44:07,575 INFO Respond: ok
+2020-10-22 18:44:07,988 INFO Sent message: b'cw 270'
+2020-10-22 18:44:13,038 INFO Respond: ok
+2020-10-22 18:44:13,038 INFO Sent message: b'forward 50'
+2020-10-22 18:44:15,130 INFO Respond: ok
+2020-10-22 18:44:15,131 INFO Sent message: b'land'
+2020-10-22 18:44:18,345 INFO Respond: ok
+2020-10-22 18:44:36,817 INFO Stop video
+2020-10-22 18:45:20,347 INFO Sent message: b'command'
+2020-10-22 18:45:20,366 INFO Respond: ok
+2020-10-22 18:45:25,008 INFO Start video
+2020-10-22 18:45:26,354 INFO Sent message: b'streamon'
+2020-10-22 18:45:26,386 INFO Respond: ok
+2020-10-22 18:45:29,366 INFO Sent message: b'takeoff'
+2020-10-22 18:45:37,975 INFO Respond: ok
+2020-10-22 18:45:37,975 INFO Sent message: b'right 20'
+2020-10-22 18:45:40,015 INFO Respond: ok
+2020-10-22 18:45:40,015 INFO Sent message: b'up 50'
+2020-10-22 18:45:42,313 INFO Respond: ok
+2020-10-22 18:45:42,313 INFO Sent message: b'forward 40'
+2020-10-22 18:45:43,999 INFO Respond: ok
+2020-10-22 18:45:43,999 INFO Sent message: b'left 20'
+2020-10-22 18:45:45,636 INFO Respond: error Motor stop
+2020-10-22 18:45:45,636 INFO Sent message: b'left 20'
+2020-10-22 18:45:45,681 INFO Respond: error Motor stop
+2020-10-22 18:45:45,682 INFO Sent message: b'left 20'
+2020-10-22 18:45:45,835 INFO Respond: error Motor stop
+2020-10-22 18:45:45,835 INFO Sent message: b'left 20'
+2020-10-22 18:45:45,886 INFO Respond: error Motor stop
+2020-10-22 18:45:45,886 INFO Sent message: b'left 20'
+2020-10-22 18:45:46,041 INFO Respond: error Motor stop
+2020-10-22 18:45:46,041 INFO Sent message: b'left 20'
+2020-10-22 18:45:46,091 INFO Respond: error Motor stop
+2020-10-22 18:45:46,091 INFO Sent message: b'left 20'
+2020-10-22 18:45:46,244 INFO Respond: error Motor stop
+2020-10-22 18:45:46,245 INFO Sent message: b'left 20'
+2020-10-22 18:45:46,295 INFO Respond: error Motor stop
+2020-10-22 18:45:46,295 INFO Sent message: b'left 20'
+2020-10-22 18:45:46,449 INFO Respond: error Motor stop
+2020-10-22 18:45:46,450 INFO Sent message: b'left 20'
+2020-10-22 18:45:46,499 INFO Respond: error Motor stop
+2020-10-22 18:45:46,500 INFO Sent message: b'left 20'
+2020-10-22 18:45:46,653 INFO Respond: error Motor stop
+2020-10-22 18:45:46,653 INFO Sent message: b'left 20'
+2020-10-22 18:45:46,708 INFO Respond: error Motor stop
+2020-10-22 18:45:46,708 INFO Sent message: b'left 20'
+2020-10-22 18:45:46,755 INFO Respond: error Motor stop
+2020-10-22 18:45:46,755 INFO Sent message: b'left 20'
+2020-10-22 18:45:46,908 INFO Respond: error Motor stop
+2020-10-22 18:45:46,908 INFO Sent message: b'left 20'
+2020-10-22 18:45:46,959 INFO Respond: error Motor stop
+2020-10-22 18:45:46,960 INFO Sent message: b'left 20'
+2020-10-22 18:45:47,112 INFO Respond: error Motor stop
+2020-10-22 18:45:47,113 INFO Sent message: b'left 20'
+2020-10-22 18:45:47,165 INFO Respond: error Motor stop
+2020-10-22 18:45:47,165 INFO Sent message: b'left 20'
+2020-10-22 18:45:47,317 INFO Respond: error Motor stop
+2020-10-22 18:45:47,317 INFO Sent message: b'left 20'
+2020-10-22 18:45:47,371 INFO Respond: error Motor stop
+2020-10-22 18:45:47,371 INFO Sent message: b'left 20'
+2020-10-22 18:45:47,521 INFO Respond: error Motor stop
+2020-10-22 18:45:47,522 INFO Sent message: b'left 20'
+2020-10-22 18:45:47,572 INFO Respond: error Motor stop
+2020-10-22 18:45:47,573 INFO Sent message: b'left 20'
+2020-10-22 18:45:47,725 INFO Respond: error Motor stop
+2020-10-22 18:45:47,726 INFO Sent message: b'left 20'
+2020-10-22 18:45:47,776 INFO Respond: error Motor stop
+2020-10-22 18:45:47,777 INFO Sent message: b'left 20'
+2020-10-22 18:45:47,934 INFO Respond: error Motor stop
+2020-10-22 18:45:47,934 INFO Sent message: b'left 20'
+2020-10-22 18:45:47,982 INFO Respond: error Motor stop
+2020-10-22 18:45:47,982 INFO Sent message: b'left 20'
+2020-10-22 18:45:48,135 INFO Respond: error Motor stop
+2020-10-22 18:45:48,135 INFO Sent message: b'left 20'
+2020-10-22 18:45:48,185 INFO Respond: error Motor stop
+2020-10-22 18:45:48,186 INFO Sent message: b'left 20'
+2020-10-22 18:45:48,339 INFO Respond: error Motor stop
+2020-10-22 18:45:48,339 INFO Sent message: b'left 20'
+2020-10-22 18:45:48,391 INFO Respond: error Motor stop
+2020-10-22 18:45:48,391 INFO Sent message: b'left 20'
+2020-10-22 18:45:48,544 INFO Respond: error Motor stop
+2020-10-22 18:45:48,545 INFO Sent message: b'left 20'
+2020-10-22 18:45:48,595 INFO Respond: error Motor stop
+2020-10-22 18:45:48,595 INFO Sent message: b'left 20'
+2020-10-22 18:45:48,748 INFO Respond: error Motor stop
+2020-10-22 18:45:48,748 INFO Sent message: b'left 20'
+2020-10-22 18:45:48,802 INFO Respond: error Motor stop
+2020-10-22 18:45:48,802 INFO Sent message: b'left 20'
+2020-10-22 18:45:48,952 INFO Respond: error Motor stop
+2020-10-22 18:45:48,952 INFO Sent message: b'left 20'
+2020-10-22 18:45:49,003 INFO Respond: error Motor stop
+2020-10-22 18:45:49,003 INFO Sent message: b'left 20'
+2020-10-22 18:45:49,158 INFO Respond: error Motor stop
+2020-10-22 18:45:49,158 INFO Sent message: b'left 20'
+2020-10-22 18:45:49,209 INFO Respond: error Motor stop
+2020-10-22 18:45:49,209 INFO Sent message: b'left 20'
+2020-10-22 18:45:49,261 INFO Respond: error Motor stop
+2020-10-22 18:45:49,262 INFO Sent message: b'left 20'
+2020-10-22 18:45:49,412 INFO Respond: error Motor stop
+2020-10-22 18:45:49,412 INFO Sent message: b'left 20'
+2020-10-22 18:45:49,464 INFO Respond: error Motor stop
+2020-10-22 18:45:49,464 INFO Sent message: b'left 20'
+2020-10-22 18:45:49,617 INFO Respond: error Motor stop
+2020-10-22 18:45:49,617 INFO Sent message: b'left 20'
+2020-10-22 18:45:49,670 INFO Respond: error Motor stop
+2020-10-22 18:45:49,670 INFO Sent message: b'left 20'
+2020-10-22 18:45:49,821 INFO Respond: error Motor stop
+2020-10-22 18:45:49,821 INFO Sent message: b'left 20'
+2020-10-22 18:45:49,873 INFO Respond: error Motor stop
+2020-10-22 18:45:49,873 INFO Sent message: b'left 20'
+2020-10-22 18:45:50,028 INFO Respond: error Motor stop
+2020-10-22 18:45:50,028 INFO Sent message: b'left 20'
+2020-10-22 18:45:50,078 INFO Respond: error Motor stop
+2020-10-22 18:45:50,078 INFO Sent message: b'left 20'
+2020-10-22 18:45:50,231 INFO Respond: error Motor stop
+2020-10-22 18:45:50,231 INFO Sent message: b'left 20'
+2020-10-22 18:45:50,282 INFO Respond: error Motor stop
+2020-10-22 18:45:50,282 INFO Sent message: b'left 20'
+2020-10-22 18:45:50,436 INFO Respond: error Motor stop
+2020-10-22 18:45:50,436 INFO Sent message: b'left 20'
+2020-10-22 18:45:50,487 INFO Respond: error Motor stop
+2020-10-22 18:45:50,488 INFO Sent message: b'left 20'
+2020-10-22 18:45:50,640 INFO Respond: error Motor stop
+2020-10-22 18:45:50,641 INFO Sent message: b'left 20'
+2020-10-22 18:45:50,693 INFO Respond: error Motor stop
+2020-10-22 18:45:50,693 INFO Sent message: b'left 20'
+2020-10-22 18:45:50,845 INFO Respond: error Motor stop
+2020-10-22 18:45:50,846 INFO Sent message: b'left 20'
+2020-10-22 18:45:50,900 INFO Respond: error Motor stop
+2020-10-22 18:45:50,900 INFO Sent message: b'left 20'
+2020-10-22 18:45:51,051 INFO Respond: error Motor stop
+2020-10-22 18:45:51,052 INFO Sent message: b'left 20'
+2020-10-22 18:45:51,102 INFO Respond: error Motor stop
+2020-10-22 18:45:51,103 INFO Sent message: b'left 20'
+2020-10-22 18:45:51,262 INFO Respond: error Motor stop
+2020-10-22 18:45:51,262 INFO Sent message: b'left 20'
+2020-10-22 18:45:51,306 INFO Respond: error Motor stop
+2020-10-22 18:45:51,307 INFO Sent message: b'left 20'
+2020-10-22 18:45:51,460 INFO Respond: error Motor stop
+2020-10-22 18:45:51,460 INFO Sent message: b'left 20'
+2020-10-22 18:45:51,511 INFO Respond: error Motor stop
+2020-10-22 18:45:51,511 INFO Sent message: b'left 20'
+2020-10-22 18:45:51,565 INFO Respond: error Motor stop
+2020-10-22 18:45:51,565 INFO Sent message: b'left 20'
+2020-10-22 18:45:51,716 INFO Respond: error Motor stop
+2020-10-22 18:45:51,716 INFO Sent message: b'left 20'
+2020-10-22 18:45:51,768 INFO Respond: error Motor stop
+2020-10-22 18:45:51,768 INFO Sent message: b'left 20'
+2020-10-22 18:45:51,920 INFO Respond: error Motor stop
+2020-10-22 18:45:51,921 INFO Sent message: b'left 20'
+2020-10-22 18:45:51,971 INFO Respond: error Motor stop
+2020-10-22 18:45:51,972 INFO Sent message: b'left 20'
+2020-10-22 18:45:52,124 INFO Respond: error Motor stop
+2020-10-22 18:45:52,125 INFO Sent message: b'left 20'
+2020-10-22 18:45:52,176 INFO Respond: error Motor stop
+2020-10-22 18:45:52,176 INFO Sent message: b'left 20'
+2020-10-22 18:45:52,332 INFO Respond: error Motor stop
+2020-10-22 18:45:52,332 INFO Sent message: b'left 20'
+2020-10-22 18:45:52,386 INFO Respond: error Motor stop
+2020-10-22 18:45:52,387 INFO Sent message: b'left 20'
+2020-10-22 18:45:52,536 INFO Respond: error Motor stop
+2020-10-22 18:45:52,536 INFO Sent message: b'left 20'
+2020-10-22 18:45:52,586 INFO Respond: error Motor stop
+2020-10-22 18:45:52,586 INFO Sent message: b'left 20'
+2020-10-22 18:45:52,814 INFO Respond: error Motor stop
+2020-10-22 18:45:52,815 INFO Sent message: b'left 20'
+2020-10-22 18:45:59,185 INFO Stop video
+2020-10-22 18:46:30,005 INFO Sent message: b'command'
+2020-10-22 18:46:30,046 INFO Respond: ok
+2020-10-22 18:46:34,365 INFO Start video
+2020-10-22 18:46:36,015 INFO Sent message: b'streamon'
+2020-10-22 18:46:36,067 INFO Respond: ok
+2020-10-22 18:46:39,019 INFO Sent message: b'takeoff'
+2020-10-22 18:46:45,354 INFO Respond: ok
+2020-10-22 18:46:45,354 INFO Sent message: b'right 20'
+2020-10-22 18:46:47,547 INFO Respond: ok
+2020-10-22 18:46:47,547 INFO Sent message: b'up 50'
+2020-10-22 18:46:49,792 INFO Respond: ok
+2020-10-22 18:46:49,792 INFO Sent message: b'forward 40'
+2020-10-22 18:46:51,475 INFO Respond: ok
+2020-10-22 18:46:51,475 INFO Sent message: b'left 20'
+2020-10-22 18:46:53,516 INFO Respond: ok
+2020-10-22 18:46:54,045 INFO Sent message: b'cw 180'
+2020-10-22 18:46:57,650 INFO Respond: ok
+2020-10-22 18:46:57,650 INFO Sent message: b'go 100 100 80 10'
+2020-10-22 18:47:07,398 INFO Respond: ok
+2020-10-22 18:47:07,399 INFO Sent message: b'cw 180'
+2020-10-22 18:47:11,431 INFO Respond: ok
+2020-10-22 18:47:11,431 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:17,658 INFO Respond: error Motor stop
+2020-10-22 18:47:17,659 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:17,808 INFO Respond: error Motor stop
+2020-10-22 18:47:17,808 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:17,962 INFO Respond: error Motor stop
+2020-10-22 18:47:17,963 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:18,114 INFO Respond: error Motor stop
+2020-10-22 18:47:18,114 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:18,472 INFO Respond: error No valid imu
+2020-10-22 18:47:18,472 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:18,832 INFO Respond: error No valid imu
+2020-10-22 18:47:18,833 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:19,188 INFO Respond: error No valid imu
+2020-10-22 18:47:19,188 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:19,544 INFO Respond: error No valid imu
+2020-10-22 18:47:19,544 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:19,853 INFO Respond: error Motor stop
+2020-10-22 18:47:19,853 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:20,006 INFO Respond: error Motor stop
+2020-10-22 18:47:20,006 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:20,111 INFO Respond: error Motor stop
+2020-10-22 18:47:20,111 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:20,262 INFO Respond: error Motor stop
+2020-10-22 18:47:20,263 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:20,414 INFO Respond: error Motor stop
+2020-10-22 18:47:20,414 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:20,567 INFO Respond: error Motor stop
+2020-10-22 18:47:20,567 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:20,722 INFO Respond: error Motor stop
+2020-10-22 18:47:20,722 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:20,875 INFO Respond: error Motor stop
+2020-10-22 18:47:20,875 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:21,032 INFO Respond: error Motor stop
+2020-10-22 18:47:21,032 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:21,182 INFO Respond: error Motor stop
+2020-10-22 18:47:21,182 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:21,335 INFO Respond: error Motor stop
+2020-10-22 18:47:21,335 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:21,488 INFO Respond: error Motor stop
+2020-10-22 18:47:21,488 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:21,641 INFO Respond: error Motor stop
+2020-10-22 18:47:21,641 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:21,795 INFO Respond: error Motor stop
+2020-10-22 18:47:21,795 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:21,947 INFO Respond: error Motor stop
+2020-10-22 18:47:21,947 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:22,050 INFO Respond: error Motor stop
+2020-10-22 18:47:22,050 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:22,203 INFO Respond: error Motor stop
+2020-10-22 18:47:22,203 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:22,357 INFO Respond: error Motor stop
+2020-10-22 18:47:22,357 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:22,511 INFO Respond: error Motor stop
+2020-10-22 18:47:22,511 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:22,666 INFO Respond: error Motor stop
+2020-10-22 18:47:22,666 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:22,817 INFO Respond: error Motor stop
+2020-10-22 18:47:22,817 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:22,971 INFO Respond: error Motor stop
+2020-10-22 18:47:22,971 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:23,125 INFO Respond: error Motor stop
+2020-10-22 18:47:23,125 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:23,276 INFO Respond: error Motor stop
+2020-10-22 18:47:23,276 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:23,430 INFO Respond: error Motor stop
+2020-10-22 18:47:23,430 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:23,583 INFO Respond: error Motor stop
+2020-10-22 18:47:23,583 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:23,735 INFO Respond: error Motor stop
+2020-10-22 18:47:23,735 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:23,894 INFO Respond: error Motor stop
+2020-10-22 18:47:23,895 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:24,043 INFO Respond: error Motor stop
+2020-10-22 18:47:24,043 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:24,197 INFO Respond: error Motor stop
+2020-10-22 18:47:24,197 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:24,350 INFO Respond: error Motor stop
+2020-10-22 18:47:24,350 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:24,505 INFO Respond: error Motor stop
+2020-10-22 18:47:24,505 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:24,659 INFO Respond: error Motor stop
+2020-10-22 18:47:24,659 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:24,812 INFO Respond: error Motor stop
+2020-10-22 18:47:24,812 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:24,962 INFO Respond: error Motor stop
+2020-10-22 18:47:24,962 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:25,115 INFO Respond: error Motor stop
+2020-10-22 18:47:25,115 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:25,269 INFO Respond: error Motor stop
+2020-10-22 18:47:25,269 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:25,355 INFO Stop video
+2020-10-22 18:47:25,426 INFO Respond: error Motor stop
+2020-10-22 18:47:25,427 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:25,576 INFO Respond: error Motor stop
+2020-10-22 18:47:25,576 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:25,730 INFO Respond: error Motor stop
+2020-10-22 18:47:25,730 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:25,884 INFO Respond: error Motor stop
+2020-10-22 18:47:25,884 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:26,037 INFO Respond: error Motor stop
+2020-10-22 18:47:26,037 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:26,192 INFO Respond: error Motor stop
+2020-10-22 18:47:26,192 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:26,343 INFO Respond: error Motor stop
+2020-10-22 18:47:26,343 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:26,497 INFO Respond: error Motor stop
+2020-10-22 18:47:26,497 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:26,650 INFO Respond: error Motor stop
+2020-10-22 18:47:26,650 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:26,803 INFO Respond: error Motor stop
+2020-10-22 18:47:26,803 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:26,957 INFO Respond: error Motor stop
+2020-10-22 18:47:26,958 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:27,111 INFO Respond: error Motor stop
+2020-10-22 18:47:27,111 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:27,265 INFO Respond: error Motor stop
+2020-10-22 18:47:27,265 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:27,418 INFO Respond: error Motor stop
+2020-10-22 18:47:27,419 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:27,571 INFO Respond: error Motor stop
+2020-10-22 18:47:27,571 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:27,725 INFO Respond: error Motor stop
+2020-10-22 18:47:27,726 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:27,878 INFO Respond: error Motor stop
+2020-10-22 18:47:27,878 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:28,031 INFO Respond: error Motor stop
+2020-10-22 18:47:28,031 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:28,185 INFO Respond: error Motor stop
+2020-10-22 18:47:28,185 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:28,338 INFO Respond: error Motor stop
+2020-10-22 18:47:28,338 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:28,493 INFO Respond: error Motor stop
+2020-10-22 18:47:28,493 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:28,645 INFO Respond: error Motor stop
+2020-10-22 18:47:28,645 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:28,798 INFO Respond: error Motor stop
+2020-10-22 18:47:28,798 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:28,951 INFO Respond: error Motor stop
+2020-10-22 18:47:28,951 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:47:29,104 INFO Respond: error Motor stop
+2020-10-22 18:47:29,104 INFO Sent message: b'go -100 -100 80 10'
+2020-10-22 18:48:20,384 INFO Sent message: b'command'
+2020-10-22 18:48:20,427 INFO Respond: ok
+2020-10-22 18:48:25,060 INFO Start video
+2020-10-22 18:48:26,401 INFO Sent message: b'streamon'
+2020-10-22 18:48:26,447 INFO Respond: ok
+2020-10-22 18:48:29,407 INFO Sent message: b'takeoff'
+2020-10-22 18:48:34,150 INFO Respond: ok
+2020-10-22 18:48:34,150 INFO Sent message: b'right 20'
+2020-10-22 18:48:36,089 INFO Respond: ok
+2020-10-22 18:48:36,090 INFO Sent message: b'up 50'
+2020-10-22 18:48:38,537 INFO Respond: ok
+2020-10-22 18:48:38,537 INFO Sent message: b'forward 40'
+2020-10-22 18:48:40,326 INFO Respond: ok
+2020-10-22 18:48:41,448 INFO Sent message: b'left 20'
+2020-10-22 18:48:43,539 INFO Respond: ok
+2020-10-22 18:48:44,455 INFO Sent message: b'cw 180'
+2020-10-22 18:48:48,181 INFO Respond: ok
+2020-10-22 18:48:48,181 INFO Sent message: b'go 100 100 80 20'
+2020-10-22 18:48:55,272 INFO Respond: ok
+2020-10-22 18:48:55,272 INFO Sent message: b'cw 180'
+2020-10-22 18:48:58,797 INFO Respond: ok
+2020-10-22 18:48:58,798 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:09,609 INFO Respond: error No valid imu
+2020-10-22 18:49:09,609 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:09,965 INFO Respond: error No valid imu
+2020-10-22 18:49:09,966 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:10,325 INFO Respond: error No valid imu
+2020-10-22 18:49:10,325 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:10,680 INFO Respond: error No valid imu
+2020-10-22 18:49:10,684 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:10,987 INFO Respond: error No valid imu
+2020-10-22 18:49:10,987 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:11,651 INFO Respond: error Not joystick
+2020-10-22 18:49:11,652 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:12,314 INFO Respond: error No valid imu
+2020-10-22 18:49:12,315 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:12,672 INFO Respond: error No valid imu
+2020-10-22 18:49:12,672 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:14,611 INFO Respond: error No valid imu
+2020-10-22 18:49:14,611 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:14,970 INFO Respond: error No valid imu
+2020-10-22 18:49:14,970 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:15,325 INFO Respond: error No valid imu
+2020-10-22 18:49:15,325 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:15,682 INFO Respond: error No valid imu
+2020-10-22 18:49:15,682 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:15,990 INFO Respond: error No valid imu
+2020-10-22 18:49:15,990 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:16,346 INFO Respond: error No valid imu
+2020-10-22 18:49:16,346 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:16,704 INFO Respond: error No valid imu
+2020-10-22 18:49:16,704 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:17,062 INFO Respond: error No valid imu
+2020-10-22 18:49:17,062 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:17,367 INFO Respond: error No valid imu
+2020-10-22 18:49:17,367 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:17,625 INFO Respond: error Motor stop
+2020-10-22 18:49:17,625 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:17,776 INFO Respond: error Motor stop
+2020-10-22 18:49:17,776 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:17,929 INFO Respond: error Motor stop
+2020-10-22 18:49:17,929 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:18,083 INFO Respond: error Motor stop
+2020-10-22 18:49:18,084 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:18,235 INFO Respond: error Motor stop
+2020-10-22 18:49:18,235 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:18,388 INFO Respond: error Motor stop
+2020-10-22 18:49:18,388 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:18,541 INFO Respond: error Motor stop
+2020-10-22 18:49:18,541 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:18,694 INFO Respond: error Motor stop
+2020-10-22 18:49:18,694 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:18,847 INFO Respond: error Motor stop
+2020-10-22 18:49:18,847 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:19,000 INFO Respond: error Motor stop
+2020-10-22 18:49:19,000 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:19,154 INFO Respond: error Motor stop
+2020-10-22 18:49:19,154 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:19,308 INFO Respond: error Motor stop
+2020-10-22 18:49:19,308 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:19,460 INFO Respond: error Motor stop
+2020-10-22 18:49:19,460 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:19,613 INFO Respond: error Motor stop
+2020-10-22 18:49:19,613 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:19,772 INFO Respond: error Motor stop
+2020-10-22 18:49:19,772 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:19,920 INFO Respond: error Motor stop
+2020-10-22 18:49:19,920 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:20,073 INFO Respond: error Motor stop
+2020-10-22 18:49:20,073 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:20,225 INFO Respond: error Motor stop
+2020-10-22 18:49:20,225 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:20,378 INFO Respond: error Motor stop
+2020-10-22 18:49:20,379 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:20,531 INFO Respond: error Motor stop
+2020-10-22 18:49:20,531 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:20,687 INFO Respond: error Motor stop
+2020-10-22 18:49:20,687 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:20,838 INFO Respond: error Motor stop
+2020-10-22 18:49:20,838 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:20,991 INFO Respond: error Motor stop
+2020-10-22 18:49:20,991 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:21,144 INFO Respond: error Motor stop
+2020-10-22 18:49:21,144 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:21,249 INFO Respond: error Motor stop
+2020-10-22 18:49:21,249 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:21,402 INFO Respond: error Motor stop
+2020-10-22 18:49:21,402 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:21,555 INFO Respond: error Motor stop
+2020-10-22 18:49:21,555 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:21,709 INFO Respond: error Motor stop
+2020-10-22 18:49:21,710 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:21,861 INFO Respond: error Motor stop
+2020-10-22 18:49:21,861 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:22,014 INFO Respond: error Motor stop
+2020-10-22 18:49:22,014 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:22,167 INFO Respond: error Motor stop
+2020-10-22 18:49:22,167 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:22,321 INFO Respond: error Motor stop
+2020-10-22 18:49:22,321 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:22,474 INFO Respond: error Motor stop
+2020-10-22 18:49:22,475 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:22,627 INFO Respond: error Motor stop
+2020-10-22 18:49:22,627 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:22,780 INFO Respond: error Motor stop
+2020-10-22 18:49:22,781 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:22,933 INFO Respond: error Motor stop
+2020-10-22 18:49:22,933 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:23,087 INFO Respond: error Motor stop
+2020-10-22 18:49:23,088 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:23,240 INFO Respond: error Motor stop
+2020-10-22 18:49:23,240 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:23,393 INFO Respond: error Motor stop
+2020-10-22 18:49:23,394 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:23,546 INFO Respond: error Motor stop
+2020-10-22 18:49:23,546 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:23,701 INFO Respond: error Motor stop
+2020-10-22 18:49:23,701 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:23,855 INFO Respond: error Motor stop
+2020-10-22 18:49:23,855 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:24,005 INFO Respond: error Motor stop
+2020-10-22 18:49:24,005 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:24,158 INFO Respond: error Motor stop
+2020-10-22 18:49:24,158 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:24,312 INFO Respond: error Motor stop
+2020-10-22 18:49:24,312 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:24,465 INFO Respond: error Motor stop
+2020-10-22 18:49:24,465 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:24,620 INFO Respond: error Motor stop
+2020-10-22 18:49:24,620 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:24,772 INFO Respond: error Motor stop
+2020-10-22 18:49:24,772 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:24,927 INFO Respond: error Motor stop
+2020-10-22 18:49:24,927 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:25,078 INFO Respond: error Motor stop
+2020-10-22 18:49:25,078 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:25,231 INFO Respond: error Motor stop
+2020-10-22 18:49:25,231 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:25,386 INFO Respond: error Motor stop
+2020-10-22 18:49:25,387 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:25,538 INFO Respond: error Motor stop
+2020-10-22 18:49:25,538 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:25,691 INFO Respond: error Motor stop
+2020-10-22 18:49:25,691 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:25,844 INFO Respond: error Motor stop
+2020-10-22 18:49:25,844 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:25,946 INFO Respond: error Motor stop
+2020-10-22 18:49:25,946 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:26,099 INFO Respond: error Motor stop
+2020-10-22 18:49:26,099 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:26,256 INFO Respond: error Motor stop
+2020-10-22 18:49:26,256 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:26,406 INFO Respond: error Motor stop
+2020-10-22 18:49:26,406 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:26,562 INFO Respond: error Motor stop
+2020-10-22 18:49:26,562 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:26,713 INFO Respond: error Motor stop
+2020-10-22 18:49:26,713 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:26,868 INFO Respond: error Motor stop
+2020-10-22 18:49:26,868 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:27,021 INFO Respond: error Motor stop
+2020-10-22 18:49:27,021 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:27,175 INFO Respond: error Motor stop
+2020-10-22 18:49:27,175 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:27,328 INFO Respond: error Motor stop
+2020-10-22 18:49:27,328 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:27,482 INFO Respond: error Motor stop
+2020-10-22 18:49:27,483 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:27,586 INFO Respond: error Motor stop
+2020-10-22 18:49:27,586 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:27,738 INFO Respond: error Motor stop
+2020-10-22 18:49:27,738 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:27,892 INFO Respond: error Motor stop
+2020-10-22 18:49:27,892 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:28,044 INFO Respond: error Motor stop
+2020-10-22 18:49:28,044 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:28,146 INFO Respond: error Motor stop
+2020-10-22 18:49:28,146 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:28,299 INFO Respond: error Motor stop
+2020-10-22 18:49:28,299 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:28,452 INFO Respond: error Motor stop
+2020-10-22 18:49:28,453 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:28,605 INFO Respond: error Motor stop
+2020-10-22 18:49:28,605 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:28,758 INFO Respond: error Motor stop
+2020-10-22 18:49:28,758 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:28,911 INFO Respond: error Motor stop
+2020-10-22 18:49:28,911 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:29,064 INFO Respond: error Motor stop
+2020-10-22 18:49:29,064 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:29,166 INFO Respond: error Motor stop
+2020-10-22 18:49:29,166 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:29,319 INFO Respond: error Motor stop
+2020-10-22 18:49:29,319 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:29,473 INFO Respond: error Motor stop
+2020-10-22 18:49:29,473 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:29,625 INFO Respond: error Motor stop
+2020-10-22 18:49:29,625 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:29,778 INFO Respond: error Motor stop
+2020-10-22 18:49:29,778 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:29,932 INFO Respond: error Motor stop
+2020-10-22 18:49:29,932 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:30,084 INFO Respond: error Motor stop
+2020-10-22 18:49:30,085 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:30,237 INFO Respond: error Motor stop
+2020-10-22 18:49:30,237 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:30,390 INFO Respond: error Motor stop
+2020-10-22 18:49:30,390 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:30,543 INFO Respond: error Motor stop
+2020-10-22 18:49:30,543 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:30,645 INFO Respond: error Motor stop
+2020-10-22 18:49:30,645 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:30,801 INFO Respond: error Motor stop
+2020-10-22 18:49:30,802 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:30,954 INFO Respond: error Motor stop
+2020-10-22 18:49:30,955 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:31,106 INFO Respond: error Motor stop
+2020-10-22 18:49:31,106 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:31,261 INFO Respond: error Motor stop
+2020-10-22 18:49:31,261 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:31,410 INFO Respond: error Motor stop
+2020-10-22 18:49:31,410 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:31,564 INFO Respond: error Motor stop
+2020-10-22 18:49:31,564 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:31,666 INFO Respond: error Motor stop
+2020-10-22 18:49:31,666 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:31,821 INFO Respond: error Motor stop
+2020-10-22 18:49:31,821 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:31,974 INFO Respond: error Motor stop
+2020-10-22 18:49:31,974 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:32,126 INFO Respond: error Motor stop
+2020-10-22 18:49:32,126 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:32,282 INFO Respond: error Motor stop
+2020-10-22 18:49:32,282 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:32,431 INFO Respond: error Motor stop
+2020-10-22 18:49:32,431 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:32,594 INFO Respond: error Motor stop
+2020-10-22 18:49:32,594 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:32,737 INFO Respond: error Motor stop
+2020-10-22 18:49:32,737 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:32,891 INFO Respond: error Motor stop
+2020-10-22 18:49:32,891 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:33,044 INFO Respond: error Motor stop
+2020-10-22 18:49:33,044 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:33,198 INFO Respond: error Motor stop
+2020-10-22 18:49:33,198 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:33,353 INFO Respond: error Motor stop
+2020-10-22 18:49:33,353 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:33,502 INFO Respond: error Motor stop
+2020-10-22 18:49:33,503 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:33,607 INFO Respond: error Motor stop
+2020-10-22 18:49:33,608 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:33,758 INFO Respond: error Motor stop
+2020-10-22 18:49:33,758 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:33,911 INFO Respond: error Motor stop
+2020-10-22 18:49:33,911 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:34,063 INFO Respond: error Motor stop
+2020-10-22 18:49:34,064 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:34,165 INFO Respond: error Motor stop
+2020-10-22 18:49:34,166 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:34,318 INFO Respond: error Motor stop
+2020-10-22 18:49:34,319 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:34,471 INFO Respond: error Motor stop
+2020-10-22 18:49:34,471 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:34,625 INFO Respond: error Motor stop
+2020-10-22 18:49:34,625 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:34,777 INFO Respond: error Motor stop
+2020-10-22 18:49:34,777 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:34,931 INFO Respond: error Motor stop
+2020-10-22 18:49:34,931 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:35,083 INFO Respond: error Motor stop
+2020-10-22 18:49:35,084 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:35,186 INFO Respond: error Motor stop
+2020-10-22 18:49:35,186 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:35,338 INFO Respond: error Motor stop
+2020-10-22 18:49:35,339 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:35,493 INFO Respond: error Motor stop
+2020-10-22 18:49:35,493 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:35,645 INFO Respond: error Motor stop
+2020-10-22 18:49:35,645 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 18:49:55,579 INFO Stop video
+2020-10-22 18:50:27,342 INFO Sent message: b'command'
+2020-10-22 18:50:27,373 INFO Respond: ok
+2020-10-22 18:50:32,061 INFO Start video
+2020-10-22 18:50:33,376 INFO Sent message: b'streamon'
+2020-10-22 18:50:33,398 INFO Respond: ok
+2020-10-22 18:50:36,384 INFO Sent message: b'takeoff'
+2020-10-22 18:50:40,951 INFO Respond: ok
+2020-10-22 18:50:40,951 INFO Sent message: b'right 20'
+2020-10-22 18:50:42,891 INFO Respond: ok
+2020-10-22 18:50:42,891 INFO Sent message: b'up 50'
+2020-10-22 18:50:45,647 INFO Respond: ok
+2020-10-22 18:50:45,647 INFO Sent message: b'forward 40'
+2020-10-22 18:50:47,485 INFO Respond: ok
+2020-10-22 18:50:48,399 INFO Sent message: b'left 20'
+2020-10-22 18:50:50,650 INFO Respond: ok
+2020-10-22 18:50:51,405 INFO Sent message: b'cw 180'
+2020-10-22 18:50:55,241 INFO Respond: ok
+2020-10-22 18:50:55,241 INFO Sent message: b'go 100 100 80 20'
+2020-10-22 18:50:57,285 INFO Respond: error Motor stop
+2020-10-22 18:50:57,285 INFO Sent message: b'go 100 100 80 20'
+2020-10-22 18:50:57,436 INFO Respond: error Motor stop
+2020-10-22 18:50:57,436 INFO Sent message: b'go 100 100 80 20'
+2020-10-22 18:50:57,599 INFO Respond: error Motor stop
+2020-10-22 18:50:57,599 INFO Sent message: b'go 100 100 80 20'
+2020-10-22 18:50:57,744 INFO Respond: error Motor stop
+2020-10-22 18:50:57,744 INFO Sent message: b'go 100 100 80 20'
+2020-10-22 18:50:57,897 INFO Respond: error Motor stop
+2020-10-22 18:50:57,897 INFO Sent message: b'go 100 100 80 20'
+2020-10-22 18:50:58,050 INFO Respond: error Motor stop
+2020-10-22 18:50:58,050 INFO Sent message: b'go 100 100 80 20'
+2020-10-22 18:52:26,702 INFO Stop video
+2020-10-22 19:02:00,270 INFO Sent message: b'command'
+2020-10-22 19:02:24,833 INFO Sent message: b'command'
+2020-10-22 19:02:24,869 INFO Respond: ok
+2020-10-22 19:02:30,854 INFO Sent message: b'streamon'
+2020-10-22 19:02:30,889 INFO Respond: ok
+2020-10-22 19:02:33,862 INFO Sent message: b'takeoff'
+2020-10-22 19:02:35,369 INFO Start video
+2020-10-22 19:02:36,882 INFO Respond: ok
+2020-10-22 19:02:36,882 INFO Sent message: b'right 20'
+2020-10-22 19:02:37,134 INFO Respond: error No valid imu
+2020-10-22 19:02:37,134 INFO Sent message: b'right 20'
+2020-10-22 19:02:37,392 INFO Respond: error No valid imu
+2020-10-22 19:02:37,392 INFO Sent message: b'right 20'
+2020-10-22 19:02:37,644 INFO Respond: error No valid imu
+2020-10-22 19:02:37,644 INFO Sent message: b'right 20'
+2020-10-22 19:02:37,899 INFO Respond: error Motor stop
+2020-10-22 19:02:37,900 INFO Sent message: b'right 20'
+2020-10-22 19:02:38,063 INFO Respond: error Motor stop
+2020-10-22 19:02:38,063 INFO Sent message: b'right 20'
+2020-10-22 19:02:38,104 INFO Respond: error Motor stop
+2020-10-22 19:02:38,104 INFO Sent message: b'right 20'
+2020-10-22 19:02:38,259 INFO Respond: error Motor stop
+2020-10-22 19:02:38,259 INFO Sent message: b'right 20'
+2020-10-22 19:02:38,314 INFO Respond: error Motor stop
+2020-10-22 19:02:38,314 INFO Sent message: b'right 20'
+2020-10-22 19:02:38,463 INFO Respond: error Motor stop
+2020-10-22 19:02:38,463 INFO Sent message: b'right 20'
+2020-10-22 19:02:38,514 INFO Respond: error Motor stop
+2020-10-22 19:02:38,514 INFO Sent message: b'right 20'
+2020-10-22 19:02:38,667 INFO Respond: error Motor stop
+2020-10-22 19:02:38,667 INFO Sent message: b'right 20'
+2020-10-22 19:02:38,719 INFO Respond: error Motor stop
+2020-10-22 19:02:38,719 INFO Sent message: b'right 20'
+2020-10-22 19:02:38,872 INFO Respond: error Motor stop
+2020-10-22 19:02:38,872 INFO Sent message: b'right 20'
+2020-10-22 19:02:38,925 INFO Respond: error Motor stop
+2020-10-22 19:02:38,926 INFO Sent message: b'right 20'
+2020-10-22 19:02:39,076 INFO Respond: error Motor stop
+2020-10-22 19:02:39,076 INFO Sent message: b'right 20'
+2020-10-22 19:02:39,126 INFO Respond: error Motor stop
+2020-10-22 19:02:39,126 INFO Sent message: b'right 20'
+2020-10-22 19:02:39,279 INFO Respond: error Motor stop
+2020-10-22 19:02:39,279 INFO Sent message: b'right 20'
+2020-10-22 19:02:39,330 INFO Respond: error Motor stop
+2020-10-22 19:02:39,330 INFO Sent message: b'right 20'
+2020-10-22 19:02:39,483 INFO Respond: error Motor stop
+2020-10-22 19:02:39,483 INFO Sent message: b'right 20'
+2020-10-22 19:02:39,534 INFO Respond: error Motor stop
+2020-10-22 19:02:39,534 INFO Sent message: b'right 20'
+2020-10-22 19:02:39,585 INFO Respond: error Motor stop
+2020-10-22 19:02:39,586 INFO Sent message: b'right 20'
+2020-10-22 19:02:39,739 INFO Respond: error Motor stop
+2020-10-22 19:02:39,739 INFO Sent message: b'right 20'
+2020-10-22 19:02:39,791 INFO Respond: error Motor stop
+2020-10-22 19:02:39,791 INFO Sent message: b'right 20'
+2020-10-22 19:02:39,945 INFO Respond: error Motor stop
+2020-10-22 19:02:39,945 INFO Sent message: b'right 20'
+2020-10-22 19:02:39,994 INFO Respond: error Motor stop
+2020-10-22 19:02:39,994 INFO Sent message: b'right 20'
+2020-10-22 19:02:40,149 INFO Respond: error Motor stop
+2020-10-22 19:02:40,149 INFO Sent message: b'right 20'
+2020-10-22 19:02:40,199 INFO Respond: error Motor stop
+2020-10-22 19:02:40,199 INFO Sent message: b'right 20'
+2020-10-22 19:02:40,352 INFO Respond: error Motor stop
+2020-10-22 19:02:40,352 INFO Sent message: b'right 20'
+2020-10-22 19:02:40,404 INFO Respond: error Motor stop
+2020-10-22 19:02:40,404 INFO Sent message: b'right 20'
+2020-10-22 19:02:40,556 INFO Respond: error Motor stop
+2020-10-22 19:02:40,556 INFO Sent message: b'right 20'
+2020-10-22 19:02:40,608 INFO Respond: error Motor stop
+2020-10-22 19:02:40,608 INFO Sent message: b'right 20'
+2020-10-22 19:02:40,762 INFO Respond: error Motor stop
+2020-10-22 19:02:40,762 INFO Sent message: b'right 20'
+2020-10-22 19:02:40,811 INFO Respond: error Motor stop
+2020-10-22 19:02:40,811 INFO Sent message: b'right 20'
+2020-10-22 19:02:40,964 INFO Respond: error Motor stop
+2020-10-22 19:02:40,964 INFO Sent message: b'right 20'
+2020-10-22 19:02:41,016 INFO Respond: error Motor stop
+2020-10-22 19:02:41,016 INFO Sent message: b'right 20'
+2020-10-22 19:02:41,168 INFO Respond: error Motor stop
+2020-10-22 19:02:41,169 INFO Sent message: b'right 20'
+2020-10-22 19:02:41,223 INFO Respond: error Motor stop
+2020-10-22 19:02:41,223 INFO Sent message: b'right 20'
+2020-10-22 19:02:41,373 INFO Respond: error Motor stop
+2020-10-22 19:02:41,373 INFO Sent message: b'right 20'
+2020-10-22 19:02:41,428 INFO Respond: error Motor stop
+2020-10-22 19:02:41,428 INFO Sent message: b'right 20'
+2020-10-22 19:02:41,578 INFO Respond: error Motor stop
+2020-10-22 19:02:41,578 INFO Sent message: b'right 20'
+2020-10-22 19:02:41,629 INFO Respond: error Motor stop
+2020-10-22 19:02:41,629 INFO Sent message: b'right 20'
+2020-10-22 19:02:41,782 INFO Respond: error Motor stop
+2020-10-22 19:02:41,782 INFO Sent message: b'right 20'
+2020-10-22 19:02:41,834 INFO Respond: error Motor stop
+2020-10-22 19:02:41,834 INFO Sent message: b'right 20'
+2020-10-22 19:02:41,887 INFO Respond: error Motor stop
+2020-10-22 19:02:41,887 INFO Sent message: b'right 20'
+2020-10-22 19:02:42,038 INFO Respond: error Motor stop
+2020-10-22 19:02:42,038 INFO Sent message: b'right 20'
+2020-10-22 19:02:42,091 INFO Respond: error Motor stop
+2020-10-22 19:02:42,091 INFO Sent message: b'right 20'
+2020-10-22 19:02:42,244 INFO Respond: error Motor stop
+2020-10-22 19:02:42,244 INFO Sent message: b'right 20'
+2020-10-22 19:02:42,307 INFO Respond: error Motor stop
+2020-10-22 19:02:42,307 INFO Sent message: b'right 20'
+2020-10-22 19:02:42,447 INFO Respond: error Motor stop
+2020-10-22 19:02:42,447 INFO Sent message: b'right 20'
+2020-10-22 19:02:42,504 INFO Respond: error Motor stop
+2020-10-22 19:02:42,504 INFO Sent message: b'right 20'
+2020-10-22 19:02:42,654 INFO Respond: error Motor stop
+2020-10-22 19:02:42,654 INFO Sent message: b'right 20'
+2020-10-22 19:02:42,703 INFO Respond: error Motor stop
+2020-10-22 19:02:42,703 INFO Sent message: b'right 20'
+2020-10-22 19:02:42,859 INFO Respond: error Motor stop
+2020-10-22 19:02:42,859 INFO Sent message: b'right 20'
+2020-10-22 19:02:42,910 INFO Respond: error Motor stop
+2020-10-22 19:02:42,910 INFO Sent message: b'right 20'
+2020-10-22 19:02:43,067 INFO Respond: error Motor stop
+2020-10-22 19:02:43,067 INFO Sent message: b'right 20'
+2020-10-22 19:02:43,114 INFO Respond: error Motor stop
+2020-10-22 19:02:43,114 INFO Sent message: b'right 20'
+2020-10-22 19:02:43,267 INFO Respond: error Motor stop
+2020-10-22 19:02:43,267 INFO Sent message: b'right 20'
+2020-10-22 19:02:43,318 INFO Respond: error Motor stop
+2020-10-22 19:02:43,318 INFO Sent message: b'right 20'
+2020-10-22 19:02:43,471 INFO Respond: error Motor stop
+2020-10-22 19:02:43,471 INFO Sent message: b'right 20'
+2020-10-22 19:02:43,522 INFO Respond: error Motor stop
+2020-10-22 19:02:43,522 INFO Sent message: b'right 20'
+2020-10-22 19:03:05,547 INFO Sent message: b'command'
+2020-10-22 19:03:05,599 INFO Respond: ok
+2020-10-22 19:03:10,189 INFO Start video
+2020-10-22 19:03:11,556 INFO Sent message: b'streamon'
+2020-10-22 19:03:11,569 INFO Respond: ok
+2020-10-22 19:03:14,560 INFO Sent message: b'takeoff'
+2020-10-22 19:05:00,654 INFO Sent message: b'command'
+2020-10-22 19:05:00,700 INFO Respond: ok
+2020-10-22 19:05:06,670 INFO Sent message: b'streamon'
+2020-10-22 19:05:06,721 INFO Respond: ok
+2020-10-22 19:05:09,679 INFO Sent message: b'takeoff'
+2020-10-22 19:05:11,271 INFO Start video
+2020-10-22 19:05:18,458 INFO Respond: ok
+2020-10-22 19:05:18,458 INFO Sent message: b'right 20'
+2020-10-22 19:05:20,754 INFO Respond: ok
+2020-10-22 19:05:20,755 INFO Sent message: b'up 50'
+2020-10-22 19:05:23,155 INFO Respond: ok
+2020-10-22 19:05:23,155 INFO Sent message: b'forward 40'
+2020-10-22 19:05:24,790 INFO Respond: ok
+2020-10-22 19:05:24,790 INFO Sent message: b'left 20'
+2020-10-22 19:05:26,830 INFO Respond: ok
+2020-10-22 19:05:26,830 INFO Sent message: b'cw 180'
+2020-10-22 19:05:30,451 INFO Respond: ok
+2020-10-22 19:05:30,451 INFO Sent message: b'go 100 100 80 20'
+2020-10-22 19:05:37,149 INFO Respond: ok
+2020-10-22 19:05:37,150 INFO Sent message: b'cw 180'
+2020-10-22 19:05:41,279 INFO Respond: ok
+2020-10-22 19:05:41,279 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 19:05:51,179 INFO Respond: ok
+2020-10-22 19:05:51,179 INFO Sent message: b'forward 10'
+2020-10-22 19:05:51,230 INFO Respond: out of range
+2020-10-22 19:07:10,637 INFO Sent message: b'command'
+2020-10-22 19:07:10,679 INFO Respond: ok
+2020-10-22 19:07:15,282 INFO Start video
+2020-10-22 19:07:16,641 INFO Sent message: b'streamon'
+2020-10-22 19:07:16,653 INFO Respond: ok
+2020-10-22 19:07:19,645 INFO Sent message: b'takeoff'
+2020-10-22 19:07:26,092 INFO Respond: ok
+2020-10-22 19:07:26,092 INFO Sent message: b'right 20'
+2020-10-22 19:07:28,234 INFO Respond: ok
+2020-10-22 19:07:28,234 INFO Sent message: b'up 50'
+2020-10-22 19:07:30,887 INFO Respond: ok
+2020-10-22 19:07:30,887 INFO Sent message: b'forward 40'
+2020-10-22 19:07:32,471 INFO Respond: ok
+2020-10-22 19:07:32,471 INFO Sent message: b'left 20'
+2020-10-22 19:07:34,867 INFO Respond: ok
+2020-10-22 19:07:34,867 INFO Sent message: b'cw 180'
+2020-10-22 19:07:38,391 INFO Respond: ok
+2020-10-22 19:07:38,392 INFO Sent message: b'go 100 100 80 20'
+2020-10-22 19:07:45,382 INFO Respond: ok
+2020-10-22 19:07:45,382 INFO Sent message: b'cw 180'
+2020-10-22 19:07:49,001 INFO Respond: ok
+2020-10-22 19:07:49,001 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 19:07:59,205 INFO Respond: ok
+2020-10-22 19:07:59,205 INFO Sent message: b'back 20'
+2020-10-22 19:08:01,655 INFO Respond: ok
+2020-10-22 19:08:01,655 INFO Sent message: b'land'
+2020-10-22 19:08:19,250 INFO Stop video
+2020-10-22 19:08:34,313 INFO Sent message: b'command'
+2020-10-22 19:08:34,360 INFO Respond: ok
+2020-10-22 19:08:38,610 INFO Start video
+2020-10-22 19:08:40,328 INFO Sent message: b'streamon'
+2020-10-22 19:08:40,379 INFO Respond: ok
+2020-10-22 19:08:43,337 INFO Sent message: b'takeoff'
+2020-10-22 19:08:49,051 INFO Respond: ok
+2020-10-22 19:08:49,051 INFO Sent message: b'right 20'
+2020-10-22 19:08:51,295 INFO Respond: ok
+2020-10-22 19:08:51,295 INFO Sent message: b'up 50'
+2020-10-22 19:08:53,742 INFO Respond: ok
+2020-10-22 19:08:53,743 INFO Sent message: b'forward 40'
+2020-10-22 19:08:55,325 INFO Respond: ok
+2020-10-22 19:08:55,353 INFO Sent message: b'left 20'
+2020-10-22 19:08:57,930 INFO Respond: ok
+2020-10-22 19:08:58,370 INFO Sent message: b'cw 180'
+2020-10-22 19:09:07,414 INFO Respond: error Big wind
+2020-10-22 19:09:07,414 INFO Sent message: b'cw 180'
+2020-10-22 19:09:08,434 INFO Respond: error Big wind
+2020-10-22 19:09:08,434 INFO Sent message: b'cw 180'
+2020-10-22 19:09:09,457 INFO Respond: error Big wind
+2020-10-22 19:09:09,457 INFO Sent message: b'cw 180'
+2020-10-22 19:09:10,474 INFO Respond: error Big wind
+2020-10-22 19:09:10,475 INFO Sent message: b'cw 180'
+2020-10-22 19:09:11,494 INFO Respond: error Big wind
+2020-10-22 19:09:11,494 INFO Sent message: b'cw 180'
+2020-10-22 19:09:12,514 INFO Respond: error Big wind
+2020-10-22 19:09:12,514 INFO Sent message: b'cw 180'
+2020-10-22 19:09:12,773 INFO Respond: error No valid imu
+2020-10-22 19:09:12,773 INFO Sent message: b'cw 180'
+2020-10-22 19:09:13,026 INFO Respond: error No valid imu
+2020-10-22 19:09:13,026 INFO Sent message: b'cw 180'
+2020-10-22 19:09:13,280 INFO Respond: error No valid imu
+2020-10-22 19:09:13,280 INFO Sent message: b'cw 180'
+2020-10-22 19:09:13,534 INFO Respond: error No valid imu
+2020-10-22 19:09:13,535 INFO Sent message: b'cw 180'
+2020-10-22 19:09:13,789 INFO Respond: error No valid imu
+2020-10-22 19:09:13,790 INFO Sent message: b'cw 180'
+2020-10-22 19:09:14,044 INFO Respond: error No valid imu
+2020-10-22 19:09:14,045 INFO Sent message: b'cw 180'
+2020-10-22 19:09:14,301 INFO Respond: error No valid imu
+2020-10-22 19:09:14,301 INFO Sent message: b'cw 180'
+2020-10-22 19:09:14,455 INFO Respond: error Motor stop
+2020-10-22 19:09:14,455 INFO Sent message: b'cw 180'
+2020-10-22 19:09:14,504 INFO Respond: error Motor stop
+2020-10-22 19:09:14,505 INFO Sent message: b'cw 180'
+2020-10-22 19:09:14,658 INFO Respond: error Motor stop
+2020-10-22 19:09:14,658 INFO Sent message: b'cw 180'
+2020-10-22 19:09:14,708 INFO Respond: error Motor stop
+2020-10-22 19:09:14,708 INFO Sent message: b'cw 180'
+2020-10-22 19:09:14,862 INFO Respond: error Motor stop
+2020-10-22 19:09:14,863 INFO Sent message: b'cw 180'
+2020-10-22 19:09:14,912 INFO Respond: error Motor stop
+2020-10-22 19:09:14,912 INFO Sent message: b'cw 180'
+2020-10-22 19:09:15,067 INFO Respond: error Motor stop
+2020-10-22 19:09:15,067 INFO Sent message: b'cw 180'
+2020-10-22 19:09:15,121 INFO Respond: error Motor stop
+2020-10-22 19:09:15,121 INFO Sent message: b'cw 180'
+2020-10-22 19:09:15,272 INFO Respond: error Motor stop
+2020-10-22 19:09:15,272 INFO Sent message: b'cw 180'
+2020-10-22 19:09:15,322 INFO Respond: error Motor stop
+2020-10-22 19:09:15,322 INFO Sent message: b'cw 180'
+2020-10-22 19:09:15,475 INFO Respond: error Motor stop
+2020-10-22 19:09:15,475 INFO Sent message: b'cw 180'
+2020-10-22 19:09:15,525 INFO Respond: error Motor stop
+2020-10-22 19:09:15,526 INFO Sent message: b'cw 180'
+2020-10-22 19:09:15,679 INFO Respond: error Motor stop
+2020-10-22 19:09:15,679 INFO Sent message: b'cw 180'
+2020-10-22 19:09:15,730 INFO Respond: error Motor stop
+2020-10-22 19:09:15,730 INFO Sent message: b'cw 180'
+2020-10-22 19:09:15,883 INFO Respond: error Motor stop
+2020-10-22 19:09:15,883 INFO Sent message: b'cw 180'
+2020-10-22 19:09:15,935 INFO Respond: error Motor stop
+2020-10-22 19:09:15,935 INFO Sent message: b'cw 180'
+2020-10-22 19:09:16,089 INFO Respond: error Motor stop
+2020-10-22 19:09:16,089 INFO Sent message: b'cw 180'
+2020-10-22 19:09:16,138 INFO Respond: error Motor stop
+2020-10-22 19:09:16,138 INFO Sent message: b'cw 180'
+2020-10-22 19:09:16,292 INFO Respond: error Motor stop
+2020-10-22 19:09:16,292 INFO Sent message: b'cw 180'
+2020-10-22 19:09:16,341 INFO Respond: error Motor stop
+2020-10-22 19:09:16,342 INFO Sent message: b'cw 180'
+2020-10-22 19:09:16,397 INFO Respond: error Motor stop
+2020-10-22 19:09:16,397 INFO Sent message: b'cw 180'
+2020-10-22 19:09:16,546 INFO Respond: error Motor stop
+2020-10-22 19:09:16,546 INFO Sent message: b'cw 180'
+2020-10-22 19:09:16,599 INFO Respond: error Motor stop
+2020-10-22 19:09:16,599 INFO Sent message: b'cw 180'
+2020-10-22 19:09:16,749 INFO Respond: error Motor stop
+2020-10-22 19:09:16,750 INFO Sent message: b'cw 180'
+2020-10-22 19:09:16,805 INFO Respond: error Motor stop
+2020-10-22 19:09:16,805 INFO Sent message: b'cw 180'
+2020-10-22 19:09:16,954 INFO Respond: error Motor stop
+2020-10-22 19:09:16,954 INFO Sent message: b'cw 180'
+2020-10-22 19:09:17,005 INFO Respond: error Motor stop
+2020-10-22 19:09:17,006 INFO Sent message: b'cw 180'
+2020-10-22 19:09:17,158 INFO Respond: error Motor stop
+2020-10-22 19:09:17,158 INFO Sent message: b'cw 180'
+2020-10-22 19:09:17,209 INFO Respond: error Motor stop
+2020-10-22 19:09:17,209 INFO Sent message: b'cw 180'
+2020-10-22 19:09:17,362 INFO Respond: error Motor stop
+2020-10-22 19:09:17,362 INFO Sent message: b'cw 180'
+2020-10-22 19:09:17,413 INFO Respond: error Motor stop
+2020-10-22 19:09:17,413 INFO Sent message: b'cw 180'
+2020-10-22 19:09:17,567 INFO Respond: error Motor stop
+2020-10-22 19:09:17,568 INFO Sent message: b'cw 180'
+2020-10-22 19:09:17,620 INFO Respond: error Motor stop
+2020-10-22 19:09:17,620 INFO Sent message: b'cw 180'
+2020-10-22 19:09:17,771 INFO Respond: error Motor stop
+2020-10-22 19:09:17,771 INFO Sent message: b'cw 180'
+2020-10-22 19:09:17,821 INFO Respond: error Motor stop
+2020-10-22 19:09:17,821 INFO Sent message: b'cw 180'
+2020-10-22 19:09:17,975 INFO Respond: error Motor stop
+2020-10-22 19:09:17,975 INFO Sent message: b'cw 180'
+2020-10-22 19:09:18,026 INFO Respond: error Motor stop
+2020-10-22 19:09:18,026 INFO Sent message: b'cw 180'
+2020-10-22 19:09:18,182 INFO Respond: error Motor stop
+2020-10-22 19:09:18,182 INFO Sent message: b'cw 180'
+2020-10-22 19:09:18,239 INFO Respond: error Motor stop
+2020-10-22 19:09:18,239 INFO Sent message: b'cw 180'
+2020-10-22 19:09:18,288 INFO Respond: error Motor stop
+2020-10-22 19:09:18,288 INFO Sent message: b'cw 180'
+2020-10-22 19:09:18,434 INFO Respond: error Motor stop
+2020-10-22 19:09:18,435 INFO Sent message: b'cw 180'
+2020-10-22 19:09:18,588 INFO Respond: error Motor stop
+2020-10-22 19:09:18,589 INFO Sent message: b'cw 180'
+2020-10-22 19:09:18,645 INFO Respond: error Motor stop
+2020-10-22 19:09:18,645 INFO Sent message: b'cw 180'
+2020-10-22 19:09:18,690 INFO Respond: error Motor stop
+2020-10-22 19:09:18,690 INFO Sent message: b'cw 180'
+2020-10-22 19:09:18,842 INFO Respond: error Motor stop
+2020-10-22 19:09:18,842 INFO Sent message: b'cw 180'
+2020-10-22 19:09:18,894 INFO Respond: error Motor stop
+2020-10-22 19:09:18,894 INFO Sent message: b'cw 180'
+2020-10-22 19:09:19,046 INFO Respond: error Motor stop
+2020-10-22 19:09:19,046 INFO Sent message: b'cw 180'
+2020-10-22 19:09:19,098 INFO Respond: error Motor stop
+2020-10-22 19:09:19,098 INFO Sent message: b'cw 180'
+2020-10-22 19:09:19,250 INFO Respond: error Motor stop
+2020-10-22 19:09:19,250 INFO Sent message: b'cw 180'
+2020-10-22 19:09:19,306 INFO Respond: error Motor stop
+2020-10-22 19:09:19,306 INFO Sent message: b'cw 180'
+2020-10-22 19:09:19,456 INFO Respond: error Motor stop
+2020-10-22 19:09:19,456 INFO Sent message: b'cw 180'
+2020-10-22 19:09:19,506 INFO Respond: error Motor stop
+2020-10-22 19:09:19,507 INFO Sent message: b'cw 180'
+2020-10-22 19:09:19,659 INFO Respond: error Motor stop
+2020-10-22 19:09:19,660 INFO Sent message: b'cw 180'
+2020-10-22 19:09:19,710 INFO Respond: error Motor stop
+2020-10-22 19:09:19,710 INFO Sent message: b'cw 180'
+2020-10-22 19:09:19,863 INFO Respond: error Motor stop
+2020-10-22 19:09:19,864 INFO Sent message: b'cw 180'
+2020-10-22 19:09:19,914 INFO Respond: error Motor stop
+2020-10-22 19:09:19,914 INFO Sent message: b'cw 180'
+2020-10-22 19:09:20,069 INFO Respond: error Motor stop
+2020-10-22 19:09:20,069 INFO Sent message: b'cw 180'
+2020-10-22 19:09:20,120 INFO Respond: error Motor stop
+2020-10-22 19:09:20,120 INFO Sent message: b'cw 180'
+2020-10-22 19:09:20,274 INFO Respond: error Motor stop
+2020-10-22 19:09:20,274 INFO Sent message: b'cw 180'
+2020-10-22 19:09:20,324 INFO Respond: error Motor stop
+2020-10-22 19:09:20,324 INFO Sent message: b'cw 180'
+2020-10-22 19:09:20,477 INFO Respond: error Motor stop
+2020-10-22 19:09:20,477 INFO Sent message: b'cw 180'
+2020-10-22 19:09:20,528 INFO Respond: error Motor stop
+2020-10-22 19:09:20,528 INFO Sent message: b'cw 180'
+2020-10-22 19:09:20,681 INFO Respond: error Motor stop
+2020-10-22 19:09:20,681 INFO Sent message: b'cw 180'
+2020-10-22 19:09:20,734 INFO Respond: error Motor stop
+2020-10-22 19:09:20,734 INFO Sent message: b'cw 180'
+2020-10-22 19:09:20,885 INFO Respond: error Motor stop
+2020-10-22 19:09:20,885 INFO Sent message: b'cw 180'
+2020-10-22 19:09:20,936 INFO Respond: error Motor stop
+2020-10-22 19:09:20,936 INFO Sent message: b'cw 180'
+2020-10-22 19:09:21,089 INFO Respond: error Motor stop
+2020-10-22 19:09:21,089 INFO Sent message: b'cw 180'
+2020-10-22 19:09:21,140 INFO Respond: error Motor stop
+2020-10-22 19:09:21,140 INFO Sent message: b'cw 180'
+2020-10-22 19:09:21,192 INFO Respond: error Motor stop
+2020-10-22 19:09:21,192 INFO Sent message: b'cw 180'
+2020-10-22 19:09:21,345 INFO Respond: error Motor stop
+2020-10-22 19:09:21,346 INFO Sent message: b'cw 180'
+2020-10-22 19:09:21,396 INFO Respond: error Motor stop
+2020-10-22 19:09:21,396 INFO Sent message: b'cw 180'
+2020-10-22 19:09:21,548 INFO Respond: error Motor stop
+2020-10-22 19:09:21,548 INFO Sent message: b'cw 180'
+2020-10-22 19:09:21,601 INFO Respond: error Motor stop
+2020-10-22 19:09:21,601 INFO Sent message: b'cw 180'
+2020-10-22 19:09:21,752 INFO Respond: error Motor stop
+2020-10-22 19:09:21,752 INFO Sent message: b'cw 180'
+2020-10-22 19:09:21,803 INFO Respond: error Motor stop
+2020-10-22 19:09:21,804 INFO Sent message: b'cw 180'
+2020-10-22 19:09:21,956 INFO Respond: error Motor stop
+2020-10-22 19:09:21,956 INFO Sent message: b'cw 180'
+2020-10-22 19:09:22,007 INFO Respond: error Motor stop
+2020-10-22 19:09:22,008 INFO Sent message: b'cw 180'
+2020-10-22 19:09:22,160 INFO Respond: error Motor stop
+2020-10-22 19:09:22,160 INFO Sent message: b'cw 180'
+2020-10-22 19:09:22,212 INFO Respond: error Motor stop
+2020-10-22 19:09:22,212 INFO Sent message: b'cw 180'
+2020-10-22 19:09:22,365 INFO Respond: error Motor stop
+2020-10-22 19:09:22,365 INFO Sent message: b'cw 180'
+2020-10-22 19:09:22,418 INFO Respond: error Motor stop
+2020-10-22 19:09:22,418 INFO Sent message: b'cw 180'
+2020-10-22 19:09:22,570 INFO Respond: error Motor stop
+2020-10-22 19:09:22,571 INFO Sent message: b'cw 180'
+2020-10-22 19:09:22,619 INFO Respond: error Motor stop
+2020-10-22 19:09:22,620 INFO Sent message: b'cw 180'
+2020-10-22 19:09:22,772 INFO Respond: error Motor stop
+2020-10-22 19:09:22,772 INFO Sent message: b'cw 180'
+2020-10-22 19:09:22,825 INFO Respond: error Motor stop
+2020-10-22 19:09:22,826 INFO Sent message: b'cw 180'
+2020-10-22 19:09:22,976 INFO Respond: error Motor stop
+2020-10-22 19:09:22,977 INFO Sent message: b'cw 180'
+2020-10-22 19:09:23,031 INFO Respond: error Motor stop
+2020-10-22 19:09:23,031 INFO Sent message: b'cw 180'
+2020-10-22 19:09:23,180 INFO Respond: error Motor stop
+2020-10-22 19:09:23,180 INFO Sent message: b'cw 180'
+2020-10-22 19:09:23,231 INFO Respond: error Motor stop
+2020-10-22 19:09:23,231 INFO Sent message: b'cw 180'
+2020-10-22 19:09:23,384 INFO Respond: error Motor stop
+2020-10-22 19:09:23,384 INFO Sent message: b'cw 180'
+2020-10-22 19:09:23,436 INFO Respond: error Motor stop
+2020-10-22 19:09:23,436 INFO Sent message: b'cw 180'
+2020-10-22 19:09:23,589 INFO Respond: error Motor stop
+2020-10-22 19:09:23,589 INFO Sent message: b'cw 180'
+2020-10-22 19:09:23,640 INFO Respond: error Motor stop
+2020-10-22 19:09:23,640 INFO Sent message: b'cw 180'
+2020-10-22 19:09:23,691 INFO Respond: error Motor stop
+2020-10-22 19:09:23,691 INFO Sent message: b'cw 180'
+2020-10-22 19:09:23,844 INFO Respond: error Motor stop
+2020-10-22 19:09:23,844 INFO Sent message: b'cw 180'
+2020-10-22 19:09:23,895 INFO Respond: error Motor stop
+2020-10-22 19:09:23,895 INFO Sent message: b'cw 180'
+2020-10-22 19:09:24,049 INFO Respond: error Motor stop
+2020-10-22 19:09:24,049 INFO Sent message: b'cw 180'
+2020-10-22 19:09:24,105 INFO Respond: error Motor stop
+2020-10-22 19:09:24,105 INFO Sent message: b'cw 180'
+2020-10-22 19:09:24,253 INFO Respond: error Motor stop
+2020-10-22 19:09:24,254 INFO Sent message: b'cw 180'
+2020-10-22 19:09:24,304 INFO Respond: error Motor stop
+2020-10-22 19:09:24,304 INFO Sent message: b'cw 180'
+2020-10-22 19:09:24,457 INFO Respond: error Motor stop
+2020-10-22 19:09:24,457 INFO Sent message: b'cw 180'
+2020-10-22 19:09:24,508 INFO Respond: error Motor stop
+2020-10-22 19:09:24,508 INFO Sent message: b'cw 180'
+2020-10-22 19:09:24,661 INFO Respond: error Motor stop
+2020-10-22 19:09:24,662 INFO Sent message: b'cw 180'
+2020-10-22 19:09:24,715 INFO Respond: error Motor stop
+2020-10-22 19:09:24,715 INFO Sent message: b'cw 180'
+2020-10-22 19:09:24,866 INFO Respond: error Motor stop
+2020-10-22 19:09:24,867 INFO Sent message: b'cw 180'
+2020-10-22 19:09:24,916 INFO Respond: error Motor stop
+2020-10-22 19:09:24,916 INFO Sent message: b'cw 180'
+2020-10-22 19:09:25,072 INFO Respond: error Motor stop
+2020-10-22 19:09:25,072 INFO Sent message: b'cw 180'
+2020-10-22 19:09:25,120 INFO Respond: error Motor stop
+2020-10-22 19:09:25,120 INFO Sent message: b'cw 180'
+2020-10-22 19:09:25,273 INFO Respond: error Motor stop
+2020-10-22 19:09:25,273 INFO Sent message: b'cw 180'
+2020-10-22 19:09:25,325 INFO Respond: error Motor stop
+2020-10-22 19:09:25,325 INFO Sent message: b'cw 180'
+2020-10-22 19:09:25,477 INFO Respond: error Motor stop
+2020-10-22 19:09:25,477 INFO Sent message: b'cw 180'
+2020-10-22 19:09:25,532 INFO Respond: error Motor stop
+2020-10-22 19:09:25,532 INFO Sent message: b'cw 180'
+2020-10-22 19:09:25,681 INFO Respond: error Motor stop
+2020-10-22 19:09:25,681 INFO Sent message: b'cw 180'
+2020-10-22 19:09:25,735 INFO Respond: error Motor stop
+2020-10-22 19:09:25,735 INFO Sent message: b'cw 180'
+2020-10-22 19:09:25,886 INFO Respond: error Motor stop
+2020-10-22 19:09:25,886 INFO Sent message: b'cw 180'
+2020-10-22 19:09:25,937 INFO Respond: error Motor stop
+2020-10-22 19:09:25,938 INFO Sent message: b'cw 180'
+2020-10-22 19:09:26,093 INFO Respond: error Motor stop
+2020-10-22 19:09:26,094 INFO Sent message: b'cw 180'
+2020-10-22 19:09:26,141 INFO Respond: error Motor stop
+2020-10-22 19:09:26,141 INFO Sent message: b'cw 180'
+2020-10-22 19:09:26,192 INFO Respond: error Motor stop
+2020-10-22 19:09:26,192 INFO Sent message: b'cw 180'
+2020-10-22 19:09:26,346 INFO Respond: error Motor stop
+2020-10-22 19:09:26,346 INFO Sent message: b'cw 180'
+2020-10-22 19:09:26,396 INFO Respond: error Motor stop
+2020-10-22 19:09:26,396 INFO Sent message: b'cw 180'
+2020-10-22 19:09:26,549 INFO Respond: error Motor stop
+2020-10-22 19:09:26,549 INFO Sent message: b'cw 180'
+2020-10-22 19:09:26,601 INFO Respond: error Motor stop
+2020-10-22 19:09:26,601 INFO Sent message: b'cw 180'
+2020-10-22 19:09:26,753 INFO Respond: error Motor stop
+2020-10-22 19:09:26,754 INFO Sent message: b'cw 180'
+2020-10-22 19:09:26,806 INFO Respond: error Motor stop
+2020-10-22 19:09:26,806 INFO Sent message: b'cw 180'
+2020-10-22 19:09:26,957 INFO Respond: error Motor stop
+2020-10-22 19:09:26,957 INFO Sent message: b'cw 180'
+2020-10-22 19:09:27,008 INFO Respond: error Motor stop
+2020-10-22 19:09:27,008 INFO Sent message: b'cw 180'
+2020-10-22 19:09:27,161 INFO Respond: error Motor stop
+2020-10-22 19:09:27,161 INFO Sent message: b'cw 180'
+2020-10-22 19:09:27,212 INFO Respond: error Motor stop
+2020-10-22 19:09:27,212 INFO Sent message: b'cw 180'
+2020-10-22 19:09:27,367 INFO Respond: error Motor stop
+2020-10-22 19:09:27,367 INFO Sent message: b'cw 180'
+2020-10-22 19:09:27,416 INFO Respond: error Motor stop
+2020-10-22 19:09:27,416 INFO Sent message: b'cw 180'
+2020-10-22 19:09:27,571 INFO Respond: error Motor stop
+2020-10-22 19:09:27,571 INFO Sent message: b'cw 180'
+2020-10-22 19:09:27,620 INFO Respond: error Motor stop
+2020-10-22 19:09:27,621 INFO Sent message: b'cw 180'
+2020-10-22 19:09:27,773 INFO Respond: error Motor stop
+2020-10-22 19:09:27,773 INFO Sent message: b'cw 180'
+2020-10-22 19:09:27,824 INFO Respond: error Motor stop
+2020-10-22 19:09:27,824 INFO Sent message: b'cw 180'
+2020-10-22 19:09:27,978 INFO Respond: error Motor stop
+2020-10-22 19:09:27,978 INFO Sent message: b'cw 180'
+2020-10-22 19:09:28,028 INFO Respond: error Motor stop
+2020-10-22 19:09:28,028 INFO Sent message: b'cw 180'
+2020-10-22 19:09:28,181 INFO Respond: error Motor stop
+2020-10-22 19:09:28,181 INFO Sent message: b'cw 180'
+2020-10-22 19:09:28,238 INFO Respond: error Motor stop
+2020-10-22 19:09:28,238 INFO Sent message: b'cw 180'
+2020-10-22 19:09:28,285 INFO Respond: error Motor stop
+2020-10-22 19:09:28,285 INFO Sent message: b'cw 180'
+2020-10-22 19:09:28,442 INFO Respond: error Motor stop
+2020-10-22 19:09:28,442 INFO Sent message: b'cw 180'
+2020-10-22 19:09:28,489 INFO Respond: error Motor stop
+2020-10-22 19:09:28,489 INFO Sent message: b'cw 180'
+2020-10-22 19:09:51,050 INFO Sent message: b'command'
+2020-10-22 19:09:51,093 INFO Respond: ok
+2020-10-22 19:09:55,471 INFO Start video
+2020-10-22 19:09:57,063 INFO Sent message: b'streamon'
+2020-10-22 19:09:57,111 INFO Respond: ok
+2020-10-22 19:10:00,067 INFO Sent message: b'takeoff'
+2020-10-22 19:10:06,651 INFO Respond: ok
+2020-10-22 19:10:06,652 INFO Sent message: b'right 20'
+2020-10-22 19:10:08,691 INFO Respond: ok
+2020-10-22 19:10:08,691 INFO Sent message: b'up 50'
+2020-10-22 19:10:10,682 INFO Respond: ok
+2020-10-22 19:10:10,682 INFO Sent message: b'forward 40'
+2020-10-22 19:10:12,472 INFO Respond: ok
+2020-10-22 19:10:12,472 INFO Sent message: b'left 20'
+2020-10-22 19:10:14,711 INFO Respond: ok
+2020-10-22 19:10:15,084 INFO Sent message: b'cw 180'
+2020-10-22 19:10:18,688 INFO Respond: ok
+2020-10-22 19:10:18,688 INFO Sent message: b'go 100 100 80 20'
+2020-10-22 19:10:25,116 INFO Respond: ok
+2020-10-22 19:10:25,116 INFO Sent message: b'cw 180'
+2020-10-22 19:10:29,043 INFO Respond: ok
+2020-10-22 19:10:29,043 INFO Sent message: b'go 100 100 -80 10'
+2020-10-22 19:10:37,566 INFO Respond: ok
+2020-10-22 19:10:37,566 INFO Sent message: b'back 20'
+2020-10-22 19:10:40,013 INFO Respond: ok
+2020-10-22 19:10:40,014 INFO Sent message: b'land'
+2020-10-22 19:10:44,453 INFO Respond: ok
+2020-10-22 19:10:55,392 INFO Stop video
+2020-11-12 11:05:10,341 INFO Start video
+2020-11-18 20:21:32,204 INFO Start video
+2020-11-18 20:22:08,522 INFO Sent message: b'command'
+2020-11-18 20:22:43,926 INFO Sent message: b'command'
+2020-11-18 20:22:43,968 INFO Respond: ok
+2020-11-18 20:22:43,994 INFO Sent message: b'streamon'
+2020-11-18 20:22:44,009 INFO Respond: ok
+2020-11-18 20:22:44,029 INFO Sent message: b'takeoff'
+2020-11-18 20:22:48,148 INFO Respond: ok
+2020-11-18 20:22:48,163 INFO Sent message: b'right 20'
+2020-11-18 20:22:48,559 INFO Start video
+2020-11-18 20:22:50,394 INFO Respond: ok
+2020-11-18 20:22:50,420 INFO Sent message: b'up 50'
+2020-11-18 20:22:52,897 INFO Respond: ok
+2020-11-18 20:22:52,924 INFO Sent message: b'forward 40'
+2020-11-18 20:22:53,981 INFO Respond: error Motor stop
+2020-11-18 20:22:54,003 INFO Sent message: b'forward 40'
+2020-11-18 20:22:54,172 INFO Respond: error Motor stop
+2020-11-18 20:22:54,198 INFO Sent message: b'forward 40'
+2020-11-18 20:22:54,273 INFO Respond: error Motor stop
+2020-11-18 20:22:54,294 INFO Sent message: b'forward 40'
+2020-11-18 20:22:54,391 INFO Respond: error Motor stop
+2020-11-18 20:22:54,419 INFO Sent message: b'forward 40'
+2020-11-18 20:22:54,476 INFO Respond: error Motor stop
+2020-11-18 20:22:54,503 INFO Sent message: b'forward 40'
+2020-11-18 20:22:54,676 INFO Respond: error Motor stop
+2020-11-18 20:22:54,698 INFO Sent message: b'forward 40'
+2020-11-18 20:22:54,781 INFO Respond: error Motor stop
+2020-11-18 20:22:54,797 INFO Sent message: b'forward 40'
+2020-11-18 20:22:54,880 INFO Respond: error Motor stop
+2020-11-18 20:22:54,896 INFO Sent message: b'forward 40'
+2020-11-18 20:22:54,986 INFO Respond: error Motor stop
+2020-11-18 20:22:55,012 INFO Sent message: b'forward 40'
+2020-11-18 20:22:55,086 INFO Respond: error Motor stop
+2020-11-18 20:22:55,103 INFO Sent message: b'forward 40'
+2020-11-18 20:22:55,237 INFO Respond: error Motor stop
+2020-11-18 20:22:55,268 INFO Sent message: b'forward 40'
+2020-11-18 20:22:55,339 INFO Respond: error Motor stop
+2020-11-18 20:22:55,396 INFO Sent message: b'forward 40'
+2020-11-18 20:22:55,441 INFO Respond: error Motor stop
+2020-11-18 20:22:55,477 INFO Sent message: b'forward 40'
+2020-11-18 20:22:55,546 INFO Respond: error Motor stop
+2020-11-18 20:22:55,593 INFO Sent message: b'forward 40'
+2020-11-18 20:22:55,850 INFO Respond: error No valid imu
+2020-11-18 20:22:55,865 INFO Sent message: b'forward 40'
+2020-11-18 20:22:56,102 INFO Respond: error No valid imu
+2020-11-18 20:22:56,123 INFO Sent message: b'forward 40'
+2020-11-18 20:22:56,364 INFO Respond: error Motor stop
+2020-11-18 20:22:56,391 INFO Sent message: b'forward 40'
+2020-11-18 20:22:56,515 INFO Respond: error Motor stop
+2020-11-18 20:22:56,536 INFO Sent message: b'forward 40'
+2020-11-18 20:22:56,621 INFO Respond: error Motor stop
+2020-11-18 20:22:56,647 INFO Sent message: b'forward 40'
+2020-11-18 20:22:56,721 INFO Respond: error Motor stop
+2020-11-18 20:22:56,731 INFO Sent message: b'forward 40'
+2020-11-18 20:22:56,820 INFO Respond: error Motor stop
+2020-11-18 20:22:56,846 INFO Sent message: b'forward 40'
+2020-11-18 20:22:56,936 INFO Respond: error Motor stop
+2020-11-18 20:22:56,972 INFO Sent message: b'forward 40'
+2020-11-18 20:22:57,035 INFO Respond: error Motor stop
+2020-11-18 20:22:57,045 INFO Sent message: b'forward 40'
+2020-11-18 20:22:57,087 INFO Respond: error Motor stop
+2020-11-18 20:22:57,118 INFO Sent message: b'forward 40'
+2020-11-18 20:22:57,182 INFO Respond: error Motor stop
+2020-11-18 20:22:57,213 INFO Sent message: b'forward 40'
+2020-11-18 20:22:57,339 INFO Respond: error Motor stop
+2020-11-18 20:22:57,375 INFO Sent message: b'forward 40'
+2020-11-18 20:22:57,441 INFO Respond: error Motor stop
+2020-11-18 20:22:57,461 INFO Sent message: b'forward 40'
+2020-11-18 20:22:57,543 INFO Respond: error Motor stop
+2020-11-18 20:22:57,575 INFO Sent message: b'forward 40'
+2020-11-18 20:22:57,643 INFO Respond: error Motor stop
+2020-11-18 20:22:57,669 INFO Sent message: b'forward 40'
+2020-11-18 20:22:57,753 INFO Respond: error Motor stop
+2020-11-18 20:22:57,779 INFO Sent message: b'forward 40'
+2020-11-18 20:22:57,844 INFO Respond: error Motor stop
+2020-11-18 20:22:57,865 INFO Sent message: b'forward 40'
+2020-11-18 20:22:57,896 INFO Respond: error Motor stop
+2020-11-18 20:22:57,933 INFO Sent message: b'forward 40'
+2020-11-18 20:22:58,001 INFO Respond: error Motor stop
+2020-11-18 20:22:58,027 INFO Sent message: b'forward 40'
+2020-11-18 20:22:58,105 INFO Respond: error Motor stop
+2020-11-18 20:22:58,134 INFO Sent message: b'forward 40'
+2020-11-18 20:22:58,203 INFO Respond: error Motor stop
+2020-11-18 20:22:58,224 INFO Sent message: b'forward 40'
+2020-11-18 20:22:58,308 INFO Respond: error Motor stop
+2020-11-18 20:22:58,330 INFO Sent message: b'forward 40'
+2020-11-18 20:22:58,411 INFO Respond: error Motor stop
+2020-11-18 20:22:58,442 INFO Sent message: b'forward 40'
+2020-11-18 20:22:58,513 INFO Respond: error Motor stop
+2020-11-18 20:22:58,539 INFO Sent message: b'forward 40'
+2020-11-18 20:22:58,615 INFO Respond: error Motor stop
+2020-11-18 20:22:58,631 INFO Sent message: b'forward 40'
+2020-11-18 20:22:58,722 INFO Respond: error Motor stop
+2020-11-18 20:22:58,738 INFO Sent message: b'forward 40'
+2020-11-18 20:22:58,812 INFO Respond: error Motor stop
+2020-11-18 20:22:58,838 INFO Sent message: b'forward 40'
+2020-11-18 20:22:58,918 INFO Respond: error Motor stop
+2020-11-18 20:22:58,944 INFO Sent message: b'forward 40'
+2020-11-18 20:22:59,036 INFO Respond: error Motor stop
+2020-11-18 20:22:59,051 INFO Sent message: b'forward 40'
+2020-11-18 20:22:59,127 INFO Respond: error Motor stop
+2020-11-18 20:22:59,154 INFO Sent message: b'forward 40'
+2020-11-18 20:22:59,223 INFO Respond: error Motor stop
+2020-11-18 20:22:59,238 INFO Sent message: b'forward 40'
+2020-11-18 20:22:59,323 INFO Respond: error Motor stop
+2020-11-18 20:22:59,348 INFO Sent message: b'forward 40'
+2020-11-18 20:22:59,378 INFO Respond: error Motor stop
+2020-11-18 20:22:59,429 INFO Sent message: b'forward 40'
+2020-11-18 20:22:59,482 INFO Respond: error Motor stop
+2020-11-18 20:22:59,504 INFO Sent message: b'forward 40'
+2020-11-18 20:22:59,707 INFO Respond: error Motor stop
+2020-11-18 20:22:59,739 INFO Sent message: b'forward 40'
+2020-11-18 20:22:59,792 INFO Respond: error Motor stop
+2020-11-18 20:22:59,808 INFO Sent message: b'forward 40'
+2020-11-18 20:22:59,943 INFO Respond: error Motor stop
+2020-11-18 20:22:59,963 INFO Sent message: b'forward 40'
+2020-11-18 20:23:00,043 INFO Respond: error Motor stop
+2020-11-18 20:23:00,064 INFO Sent message: b'forward 40'
+2020-11-18 20:23:00,145 INFO Respond: error Motor stop
+2020-11-18 20:23:00,156 INFO Sent message: b'forward 40'
+2020-11-18 20:23:00,247 INFO Respond: error Motor stop
+2020-11-18 20:23:00,268 INFO Sent message: b'forward 40'
+2020-11-18 20:23:00,349 INFO Respond: error Motor stop
+2020-11-18 20:23:00,366 INFO Sent message: b'forward 40'
+2020-11-18 20:23:00,401 INFO Respond: error Motor stop
+2020-11-18 20:23:00,421 INFO Sent message: b'forward 40'
+2020-11-18 20:23:00,527 INFO Respond: error Motor stop
+2020-11-18 20:23:00,553 INFO Sent message: b'forward 40'
+2020-11-18 20:23:00,601 INFO Respond: error Motor stop
+2020-11-18 20:23:00,621 INFO Sent message: b'forward 40'
+2020-11-18 20:23:00,709 INFO Respond: error Motor stop
+2020-11-18 20:23:00,735 INFO Sent message: b'forward 40'
+2020-11-18 20:23:00,810 INFO Respond: error Motor stop
+2020-11-18 20:23:00,837 INFO Sent message: b'forward 40'
+2020-11-18 20:23:00,912 INFO Respond: error Motor stop
+2020-11-18 20:23:00,933 INFO Sent message: b'forward 40'
+2020-11-18 20:23:01,009 INFO Respond: error Motor stop
+2020-11-18 20:23:01,025 INFO Sent message: b'forward 40'
+2020-11-18 20:23:01,058 INFO Respond: error Motor stop
+2020-11-18 20:23:01,068 INFO Sent message: b'forward 40'
+2020-11-18 20:23:01,216 INFO Respond: error Motor stop
+2020-11-18 20:23:01,254 INFO Sent message: b'forward 40'
+2020-11-18 20:23:01,325 INFO Respond: error Motor stop
+2020-11-18 20:23:01,347 INFO Sent message: b'forward 40'
+2020-11-18 20:23:01,427 INFO Respond: error Motor stop
+2020-11-18 20:23:01,443 INFO Sent message: b'forward 40'
+2020-11-18 20:23:01,532 INFO Respond: error Motor stop
+2020-11-18 20:23:01,557 INFO Sent message: b'forward 40'
+2020-11-18 20:23:01,625 INFO Respond: error Motor stop
+2020-11-18 20:23:01,652 INFO Sent message: b'forward 40'
+2020-11-18 20:23:01,673 INFO Respond: error Motor stop
+2020-11-18 20:23:01,705 INFO Sent message: b'forward 40'
+2020-11-18 20:23:01,875 INFO Respond: error Motor stop
+2020-11-18 20:23:01,891 INFO Sent message: b'forward 40'
+2020-11-18 20:23:01,998 INFO Respond: error Motor stop
+2020-11-18 20:23:02,024 INFO Sent message: b'forward 40'
+2020-11-18 20:23:02,097 INFO Respond: error Motor stop
+2020-11-18 20:23:02,108 INFO Sent message: b'forward 40'
+2020-11-18 20:23:02,255 INFO Respond: error Motor stop
+2020-11-18 20:23:02,276 INFO Sent message: b'forward 40'
+2020-11-18 20:23:02,344 INFO Respond: error Motor stop
+2020-11-18 20:23:02,364 INFO Sent message: b'forward 40'
+2020-11-18 20:23:02,446 INFO Respond: error Motor stop
+2020-11-18 20:23:02,468 INFO Sent message: b'forward 40'
+2020-11-18 20:23:02,540 INFO Respond: error Motor stop
+2020-11-18 20:23:02,567 INFO Sent message: b'forward 40'
+2020-11-18 20:23:02,652 INFO Respond: error Motor stop
+2020-11-18 20:23:02,678 INFO Sent message: b'forward 40'
+2020-11-18 20:23:02,752 INFO Respond: error Motor stop
+2020-11-18 20:23:02,779 INFO Sent message: b'forward 40'
+2020-11-18 20:23:02,863 INFO Respond: error Motor stop
+2020-11-18 20:23:02,884 INFO Sent message: b'forward 40'
+2020-11-18 20:23:02,954 INFO Respond: error Motor stop
+2020-11-18 20:23:02,970 INFO Sent message: b'forward 40'
+2020-11-18 20:23:03,068 INFO Respond: error Motor stop
+2020-11-18 20:23:03,094 INFO Sent message: b'forward 40'
+2020-11-18 20:23:03,158 INFO Respond: error Motor stop
+2020-11-18 20:23:03,179 INFO Sent message: b'forward 40'
+2020-11-19 14:28:48,315 INFO Sent message: b'command'
+2020-11-19 14:29:48,419 INFO Start video
+2020-11-19 14:30:10,647 INFO Sent message: b'command'
+2020-11-19 14:30:10,699 INFO Respond: ok
+2020-11-19 14:30:10,725 INFO Sent message: b'streamon'
+2020-11-19 14:30:10,756 INFO Respond: ok
+2020-11-19 14:30:10,776 INFO Sent message: b'takeoff'
+2020-11-19 14:30:15,079 INFO Start video
+2020-11-19 14:30:19,631 INFO Respond: ok
+2020-11-19 14:30:19,656 INFO Sent message: b'right 20'
+2020-11-19 14:30:21,929 INFO Respond: ok
+2020-11-19 14:30:21,945 INFO Sent message: b'up 50'
+2020-11-19 14:30:24,858 INFO Respond: ok
+2020-11-19 14:30:24,885 INFO Sent message: b'forward 40'
+2020-11-19 14:30:26,787 INFO Respond: ok
+2020-11-19 14:30:26,813 INFO Sent message: b'left 20'
+2020-11-19 14:30:28,424 INFO Respond: ok
+2020-11-19 14:30:28,445 INFO Sent message: b'cw 180'
+2020-11-19 14:30:31,997 INFO Respond: ok
+2020-11-19 14:30:32,013 INFO Sent message: b'go 100 100 80 20'
+2020-11-19 14:30:38,785 INFO Respond: ok
+2020-11-19 14:30:38,801 INFO Sent message: b'cw 180'
+2020-11-19 14:30:42,314 INFO Respond: ok
+2020-11-19 14:30:42,335 INFO Sent message: b'go 100 100 -80 10'
+2020-11-19 14:30:53,145 INFO Respond: ok
+2020-11-19 14:30:53,177 INFO Sent message: b'back 20'
+2020-11-19 14:30:54,936 INFO Respond: ok
+2020-11-19 14:30:54,957 INFO Sent message: b'land'
+2020-11-19 14:30:59,215 INFO Respond: ok
+2020-11-19 14:30:59,237 INFO Sent message: b'end'
+2020-11-19 14:30:59,257 INFO Respond: unknown command: end
+2020-11-19 14:31:25,117 INFO Stop video
