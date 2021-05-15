@@ -42,3 +42,5 @@ if __name__ == '__main__':
     controllerThread.join()
     stateThread.join()
     videoThread.join()
+
+# TODO add exit function for all threads
