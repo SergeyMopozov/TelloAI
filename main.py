@@ -15,11 +15,11 @@ from collections import deque
 if __name__ == '__main__':
     # 1. Set logs
     # logger for state
-    state_logger = setup_logger('state_logger', './TelloAI/logs/tello_state.log')
+    state_logger = setup_logger('state_logger', './logs/tello_state.log')
     # logger for commands and responds from UAV
-    command_logger = setup_logger('command_logger', './TelloAI/logs/tello_command.log')
+    command_logger = setup_logger('command_logger', './logs/tello_command.log')
     # logger for errors
-    error_logger = setup_logger('error_logger', './TelloAI/logs/tello_error.log')
+    error_logger = setup_logger('error_logger', './logs/tello_error.log')
     # message for bot
     command_queue = deque()
     # respond from bot

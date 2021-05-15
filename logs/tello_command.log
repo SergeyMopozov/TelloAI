@@ -1524,3 +1524,34 @@
 2020-11-19 14:30:59,237 INFO Sent message: b'end'
 2020-11-19 14:30:59,257 INFO Respond: unknown command: end
 2020-11-19 14:31:25,117 INFO Stop video
+2021-05-15 21:03:27,673 INFO Sent message: b'command'
+2021-05-15 21:04:05,354 INFO Sent message: b'command'
+2021-05-15 21:04:37,220 INFO Sent message: b'command'
+2021-05-15 21:04:37,242 INFO Respond: ok
+2021-05-15 21:04:37,258 INFO Sent message: b'streamon'
+2021-05-15 21:04:37,298 INFO Respond: ok
+2021-05-15 21:04:37,314 INFO Sent message: b'takeoff'
+2021-05-15 21:04:41,924 INFO Start video
+2021-05-15 21:04:42,753 INFO Respond: ok
+2021-05-15 21:04:42,764 INFO Sent message: b'right 20'
+2021-05-15 21:04:44,696 INFO Respond: ok
+2021-05-15 21:04:44,713 INFO Sent message: b'up 50'
+2021-05-15 21:04:47,137 INFO Respond: ok
+2021-05-15 21:04:47,164 INFO Sent message: b'forward 40'
+2021-05-15 21:04:49,230 INFO Respond: ok
+2021-05-15 21:04:49,255 INFO Sent message: b'left 20'
+2021-05-15 21:04:51,527 INFO Respond: ok
+2021-05-15 21:04:51,553 INFO Sent message: b'cw 180'
+2021-05-15 21:04:55,249 INFO Respond: ok
+2021-05-15 21:04:55,275 INFO Sent message: b'go 100 100 80 20'
+2021-05-15 21:05:02,242 INFO Respond: ok
+2021-05-15 21:05:02,253 INFO Sent message: b'cw 180'
+2021-05-15 21:05:06,284 INFO Respond: ok
+2021-05-15 21:05:06,301 INFO Sent message: b'go 100 100 -80 10'
+2021-05-15 21:05:15,206 INFO Respond: ok
+2021-05-15 21:05:15,258 INFO Sent message: b'back 20'
+2021-05-15 21:05:17,807 INFO Respond: ok
+2021-05-15 21:05:17,824 INFO Sent message: b'land'
+2021-05-15 21:05:21,836 INFO Respond: ok
+2021-05-15 21:05:21,862 INFO Sent message: b'end'
+2021-05-15 21:05:21,884 INFO Respond: unknown command: end
