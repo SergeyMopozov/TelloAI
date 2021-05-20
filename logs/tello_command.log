@@ -1555,3 +1555,171 @@
 2021-05-15 21:05:21,836 INFO Respond: ok
 2021-05-15 21:05:21,862 INFO Sent message: b'end'
 2021-05-15 21:05:21,884 INFO Respond: unknown command: end
+2021-05-20 19:13:37,994 INFO Sent message: b'command'
+2021-05-20 19:13:59,840 INFO Sent message: b'command'
+2021-05-20 19:13:59,896 INFO Respond: ok
+2021-05-20 19:13:59,916 INFO Sent message: b'streamon'
+2021-05-20 19:13:59,942 INFO Respond: ok
+2021-05-20 19:13:59,957 INFO Sent message: b'takeoff'
+2021-05-20 19:14:04,247 INFO Start video
+2021-05-20 19:14:06,182 INFO Respond: ok
+2021-05-20 19:14:06,210 INFO Sent message: b'right 20'
+2021-05-20 19:14:08,432 INFO Respond: ok
+2021-05-20 19:14:08,448 INFO Sent message: b'up 50'
+2021-05-20 19:14:10,939 INFO Respond: ok
+2021-05-20 19:14:10,961 INFO Sent message: b'forward 40'
+2021-05-20 19:14:12,629 INFO Respond: ok
+2021-05-20 19:14:12,660 INFO Sent message: b'left 20'
+2021-05-20 19:14:14,382 INFO Respond: ok
+2021-05-20 19:14:14,398 INFO Sent message: b'cw 180'
+2021-05-20 19:14:17,998 INFO Respond: ok
+2021-05-20 19:14:18,019 INFO Sent message: b'go 100 100 80 20'
+2021-05-20 19:14:25,422 INFO Respond: ok
+2021-05-20 19:14:25,448 INFO Sent message: b'flip r'
+2021-05-20 19:14:25,469 INFO Respond: error
+2021-05-20 19:14:25,490 INFO Sent message: b'flip r'
+2021-05-20 19:14:25,526 INFO Respond: error
+2021-05-20 19:14:25,541 INFO Sent message: b'flip r'
+2021-05-20 19:14:25,574 INFO Respond: error
+2021-05-20 19:14:25,595 INFO Sent message: b'flip r'
+2021-05-20 19:14:25,616 INFO Respond: error
+2021-05-20 19:14:25,638 INFO Sent message: b'flip r'
+2021-05-20 19:14:25,668 INFO Respond: error
+2021-05-20 19:14:25,694 INFO Sent message: b'flip r'
+2021-05-20 19:14:25,722 INFO Respond: error
+2021-05-20 19:14:25,743 INFO Sent message: b'flip r'
+2021-05-20 19:14:25,769 INFO Respond: error
+2021-05-20 19:14:25,785 INFO Sent message: b'flip r'
+2021-05-20 19:14:25,818 INFO Respond: error
+2021-05-20 19:14:25,833 INFO Sent message: b'flip r'
+2021-05-20 19:14:25,885 INFO Respond: error
+2021-05-20 19:14:25,900 INFO Sent message: b'flip r'
+2021-05-20 19:14:25,944 INFO Respond: error
+2021-05-20 19:14:25,964 INFO Sent message: b'flip r'
+2021-05-20 19:14:25,976 INFO Respond: error
+2021-05-20 19:14:25,996 INFO Sent message: b'flip r'
+2021-05-20 19:14:26,033 INFO Respond: error
+2021-05-20 19:14:26,056 INFO Sent message: b'flip r'
+2021-05-20 19:14:26,077 INFO Respond: error
+2021-05-20 19:14:26,087 INFO Sent message: b'flip r'
+2021-05-20 19:14:26,162 INFO Respond: error
+2021-05-20 19:14:26,179 INFO Sent message: b'flip r'
+2021-05-20 19:14:26,250 INFO Respond: error
+2021-05-20 19:14:26,281 INFO Sent message: b'flip r'
+2021-05-20 19:14:26,339 INFO Respond: error
+2021-05-20 19:14:26,355 INFO Sent message: b'flip r'
+2021-05-20 19:14:26,402 INFO Respond: error
+2021-05-20 19:14:26,423 INFO Sent message: b'flip r'
+2021-05-20 19:14:26,443 INFO Respond: error
+2021-05-20 19:14:26,464 INFO Sent message: b'flip r'
+2021-05-20 19:14:26,496 INFO Respond: error
+2021-05-20 19:14:26,527 INFO Sent message: b'flip r'
+2021-05-20 19:14:26,542 INFO Respond: error
+2021-05-20 19:14:26,558 INFO Sent message: b'flip r'
+2021-05-20 19:14:26,602 INFO Respond: error
+2021-05-20 19:14:26,608 INFO Sent message: b'flip r'
+2021-05-20 19:14:26,646 INFO Respond: error
+2021-05-20 19:14:26,657 INFO Sent message: b'flip r'
+2021-05-20 19:14:26,699 INFO Respond: error
+2021-05-20 19:14:26,717 INFO Sent message: b'flip r'
+2021-05-20 19:14:26,744 INFO Respond: error
+2021-05-20 19:14:26,759 INFO Sent message: b'flip r'
+2021-05-20 19:14:26,798 INFO Respond: error
+2021-05-20 19:14:26,824 INFO Sent message: b'flip r'
+2021-05-20 19:14:26,851 INFO Respond: error
+2021-05-20 19:14:26,876 INFO Sent message: b'flip r'
+2021-05-20 19:14:26,918 INFO Respond: error
+2021-05-20 19:14:26,939 INFO Sent message: b'flip r'
+2021-05-20 19:14:26,970 INFO Respond: error
+2021-05-20 19:14:26,996 INFO Sent message: b'flip r'
+2021-05-20 19:14:27,008 INFO Respond: error
+2021-05-20 19:14:27,028 INFO Sent message: b'flip r'
+2021-05-20 19:14:27,071 INFO Respond: error
+2021-05-20 19:14:27,087 INFO Sent message: b'flip r'
+2021-05-20 19:14:27,119 INFO Respond: error
+2021-05-20 19:14:27,146 INFO Sent message: b'flip r'
+2021-05-20 19:14:27,151 INFO Respond: error
+2021-05-20 19:14:27,167 INFO Sent message: b'flip r'
+2021-05-20 19:14:27,208 INFO Respond: error
+2021-05-20 19:14:27,229 INFO Sent message: b'flip r'
+2021-05-20 19:14:27,270 INFO Respond: error
+2021-05-20 19:14:27,297 INFO Sent message: b'flip r'
+2021-05-20 19:14:27,313 INFO Respond: error
+2021-05-20 19:14:27,349 INFO Sent message: b'flip r'
+2021-05-20 19:14:27,359 INFO Respond: error
+2021-05-20 19:14:27,395 INFO Sent message: b'flip r'
+2021-05-20 19:14:27,412 INFO Respond: error
+2021-05-20 19:14:27,428 INFO Sent message: b'flip r'
+2021-05-20 19:14:27,486 INFO Respond: error
+2021-05-20 19:14:27,532 INFO Sent message: b'flip r'
+2021-05-20 19:14:27,538 INFO Respond: error
+2021-05-20 19:14:27,550 INFO Sent message: b'flip r'
+2021-05-20 19:14:27,566 INFO Respond: error
+2021-05-20 19:14:27,587 INFO Sent message: b'flip r'
+2021-05-20 19:14:27,619 INFO Respond: error
+2021-05-20 19:14:27,640 INFO Sent message: b'flip r'
+2021-05-20 19:14:27,676 INFO Respond: error
+2021-05-20 19:14:27,697 INFO Sent message: b'flip r'
+2021-05-20 19:14:27,725 INFO Respond: error
+2021-05-20 19:14:27,751 INFO Sent message: b'flip r'
+2021-05-20 19:14:27,789 INFO Respond: error
+2021-05-20 19:14:27,815 INFO Sent message: b'flip r'
+2021-05-20 19:14:27,831 INFO Respond: error
+2021-05-20 19:14:27,841 INFO Sent message: b'flip r'
+2021-05-20 19:14:27,878 INFO Respond: error
+2021-05-20 19:14:27,898 INFO Sent message: b'flip r'
+2021-05-20 19:14:27,925 INFO Respond: error
+2021-05-20 19:14:27,940 INFO Sent message: b'flip r'
+2021-05-20 19:14:27,990 INFO Respond: error
+2021-05-20 19:14:28,021 INFO Sent message: b'flip r'
+2021-05-20 19:14:28,022 INFO Respond: error
+2021-05-20 19:14:28,032 INFO Sent message: b'flip r'
+2021-05-20 19:14:28,081 INFO Respond: error
+2021-05-20 19:14:28,102 INFO Sent message: b'flip r'
+2021-05-20 19:14:28,134 INFO Respond: error
+2021-05-20 19:14:28,144 INFO Sent message: b'flip r'
+2021-05-20 19:14:28,190 INFO Respond: error
+2021-05-20 19:14:28,216 INFO Sent message: b'flip r'
+2021-05-20 19:14:28,226 INFO Respond: error
+2021-05-20 19:14:28,262 INFO Sent message: b'flip r'
+2021-05-20 19:14:28,297 INFO Respond: error
+2021-05-20 19:14:28,313 INFO Sent message: b'flip r'
+2021-05-20 19:14:28,335 INFO Respond: error
+2021-05-20 19:14:28,361 INFO Sent message: b'flip r'
+2021-05-20 19:14:28,401 INFO Respond: error
+2021-05-20 19:14:28,416 INFO Sent message: b'flip r'
+2021-05-20 19:14:28,460 INFO Respond: error
+2021-05-20 19:14:28,476 INFO Sent message: b'flip r'
+2021-05-20 19:14:28,503 INFO Respond: error
+2021-05-20 19:14:28,528 INFO Sent message: b'flip r'
+2021-05-20 19:14:28,542 INFO Respond: error
+2021-05-20 19:14:28,573 INFO Sent message: b'flip r'
+2021-05-20 19:14:28,600 INFO Respond: error
+2021-05-20 19:14:28,621 INFO Sent message: b'flip r'
+2021-05-20 19:14:28,653 INFO Respond: error
+2021-05-20 19:14:28,663 INFO Sent message: b'flip r'
+2021-05-20 19:14:28,692 INFO Respond: error
+2021-05-20 19:14:28,722 INFO Sent message: b'flip r'
+2021-05-20 19:14:28,740 INFO Respond: error
+2021-05-20 19:14:28,751 INFO Sent message: b'flip r'
+2021-05-20 19:14:28,808 INFO Respond: error
+2021-05-20 19:14:28,829 INFO Sent message: b'flip r'
+2021-05-20 19:14:28,854 INFO Respond: error
+2021-05-20 19:14:28,870 INFO Sent message: b'flip r'
+2021-05-20 19:14:28,924 INFO Respond: error
+2021-05-20 19:14:28,934 INFO Sent message: b'flip r'
+2021-05-20 19:14:28,950 INFO Respond: error
+2021-05-20 19:14:28,984 INFO Sent message: b'flip r'
+2021-05-20 19:14:29,012 INFO Respond: ok
+2021-05-20 19:14:29,048 INFO Sent message: b'cw 180'
+2021-05-20 19:14:29,053 INFO Respond: error
+2021-05-20 19:14:29,084 INFO Sent message: b'cw 180'
+2021-05-20 19:14:32,602 INFO Respond: ok
+2021-05-20 19:14:32,624 INFO Sent message: b'go 100 100 -80 10'
+2021-05-20 19:14:32,629 INFO Respond: ok
+2021-05-20 19:14:32,644 INFO Sent message: b'back 20'
+2021-05-20 19:14:42,559 INFO Respond: ok
+2021-05-20 19:14:42,574 INFO Sent message: b'land'
+2021-05-20 19:14:46,688 INFO Respond: ok
+2021-05-20 19:14:46,708 INFO Sent message: b'end'
+2021-05-20 19:14:46,757 INFO Respond: unknown command: end

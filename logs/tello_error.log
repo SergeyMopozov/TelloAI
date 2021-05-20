@@ -2707,3 +2707,8 @@ Traceback (most recent call last):
   File "/home/mrmopoz/git/TelloAI/process/command.py", line 47, in command
     resp = data.decode(encoding="utf-8")
 UnicodeDecodeError: 'utf-8' codec can't decode byte 0xcc in position 0: invalid continuation byte
+2021-05-20 19:13:38,084 ERROR <class 'Exception'>
+Traceback (most recent call last):
+  File "/home/mrmopoz/git/TelloAI/process/command.py", line 47, in command
+    resp = data.decode(encoding="utf-8")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xcc in position 0: invalid continuation byte

@@ -3,9 +3,9 @@ import gym
 
 
 def eps_greedy(Q, s, eps=0.1):
-    '''
+    """
     Epsilon greedy policy
-    '''
+    """
     if np.random.uniform(0, 1) < eps:
         # Choose a random action
         return np.random.randint(Q.shape[1])
@@ -15,18 +15,17 @@ def eps_greedy(Q, s, eps=0.1):
 
 
 def greedy(Q, s):
-    '''
+    """
     Greedy policy
-
     return the index corresponding to the maximum action-state value
-    '''
+    """
     return np.argmax(Q[s])
 
 
 def run_episodes(env, Q, num_episodes=100, to_print=False):
-    '''
+    """
     Run some episodes to test the policy
-    '''
+    """
     tot_rew = []
     state = env.reset()
 

@@ -41,7 +41,8 @@ def controller(command, respond):
     count = 0
     # command backlog
     command_queue = deque(['command', 'streamon', 'takeoff', 'right 20', 'up 50', 
-                'forward 40', 'left 20', 'cw 180', 'go 100 100 80 20', 'cw 180', 'go 100 100 -80 10', 
+                'forward 40', 'left 20', 'cw 180', 'go 100 100 80 20', 'flip r',
+                'cw 180', 'go 100 100 -80 10',
                 'back 20', 'land', 'end'])
                 
     while True:
