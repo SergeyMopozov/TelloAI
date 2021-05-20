@@ -18,18 +18,18 @@ def initialization(command):
 
 
 def end_mission(command):
-    end_proc_command = ['streamoff']
+    end_proc_command = ['land', 'streamoff']
     for c in end_proc_command:
         command.append(c)
     return command
 
 
 def make_decision(model, event):
-    '''
+    """
     get event and make decision
     event - contain information about state anomaly, video stream detections, etc
 
-    '''
+    """
     next_step = model.predict(event)
 
     return next_step
