@@ -6,11 +6,12 @@ Created on Oct 7, 2020
 
 
 from collections import deque
-import time
+import presets
 
+MISSION_COMPLETE = False
 
 def initialization(command):
-    init_proc_command = ['command', 'streamon']
+    init_proc_command = presets.INIT_COMMANDS
     for c in init_proc_command:
         command.append(c)
     
@@ -18,7 +19,7 @@ def initialization(command):
 
 
 def end_mission(command):
-    end_proc_command = ['land', 'streamoff']
+    end_proc_command = presets.END_COMMANDS
     for c in end_proc_command:
         command.append(c)
     return command
@@ -44,7 +45,8 @@ def controller(command, respond):
                 'forward 40', 'left 20', 'cw 180', 'go 100 100 80 20', 'flip r',
                 'cw 180', 'go 100 100 -80 10',
                 'back 20', 'land', 'end'])
-                
+
+    # main cycle
     while True:
         # first init command
         if count == 0:
@@ -52,10 +54,12 @@ def controller(command, respond):
             command.append(msg)
             count += 1
 
-        # check commands in stack and put it in queue
+        # check respond not empty
         if respond:
             resp = respond.popleft()
+            # check respond is ok
             if 'ok' in resp:
+                # check commands not empty and get next command
                 if command_queue:
                     msg = command_queue.popleft()
                     command.append(msg)
@@ -63,10 +67,10 @@ def controller(command, respond):
                     count += 1
                 else:
                     break
-            # repeat last command
+            # if respond error repeat last command
             if 'error' in resp:
                 command.append(msg)
-                print(msg + ' put in queue')
+                print(msg + ' repeat put in queue')
             
         else:
             continue

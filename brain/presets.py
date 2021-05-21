@@ -6,8 +6,8 @@ INIT_COMMANDS = ('command', 'streamon', 'takeoff')
 
 END_COMMANDS = ('land', 'streamoff')
 
-COMMANDS_LIST = ('up', 'down', 'left', 'right',
-                 'forward', 'back', 'cw', 'ccw',
+COMMANDS_LIST = ('up', 'down', 'left', 'right', 'forward', 'back',
+                 'cw', 'ccw',
                  'go')
 
 LINEAR_STEPS = np.arange(20, 500, 10)
