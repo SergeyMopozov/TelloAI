@@ -25,7 +25,7 @@ def command(command, respond, logger, error_log):
     
     print('command socket start')
     bufsize = 1024
-    
+
 
     # start main cycle
     while True:
