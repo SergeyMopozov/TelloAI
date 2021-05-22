@@ -1,0 +1,10 @@
+up 7
+up 25
+down 33
+right 19
+right 38
+go 125 192 85 20
+right 10
+cw 0
+ccw 308
+go 186 231 312 20

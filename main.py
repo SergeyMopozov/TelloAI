@@ -25,8 +25,11 @@ if __name__ == '__main__':
     # respond from bot
     respond_queue = deque()
 
+    fly_mode = 'program'    # or 'learn'
+    program_path = '../fly_programs/program_1'
+
     # controller thread create
-    controllerThread = threading.Thread(target=controller, args=(command_queue, respond_queue))
+    controllerThread = threading.Thread(target=controller, args=(command_queue, respond_queue, fly_mode, program_path))
     controllerThread.start()
     # recvThread create
     recvThread = threading.Thread(target=command, args=(command_queue, respond_queue, command_logger, error_logger))
