@@ -26,7 +26,7 @@ if __name__ == '__main__':
     respond_queue = deque()
 
     fly_mode = 'program'    # or 'learn'
-    program_path = '../fly_programs/program_1'
+    program_path = './fly_programs/program_1'
 
     # controller thread create
     controllerThread = threading.Thread(target=controller, args=(command_queue, respond_queue, fly_mode, program_path))

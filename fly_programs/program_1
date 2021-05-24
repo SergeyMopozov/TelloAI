@@ -1,10 +1,10 @@
-up 7
-up 25
-down 33
-right 19
-right 38
-go 125 192 85 20
-right 10
-cw 0
-ccw 308
-go 186 231 312 20
+ccw 120
+go 70 100 20 20
+up 90
+cw 147
+left 70
+right 100
+ccw 205
+back 20
+down 40
+left 90

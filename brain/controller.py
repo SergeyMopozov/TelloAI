@@ -6,7 +6,7 @@ Created on Oct 7, 2020
 
 
 from collections import deque
-import presets
+from brain import presets
 
 MISSION_COMPLETE = False
 STEPS_LIMIT = 20

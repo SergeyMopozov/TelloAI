@@ -8,7 +8,7 @@ COMMANDS_LIST = ('up', 'down', 'left', 'right', 'forward', 'back',
                  'cw', 'ccw',
                  'go')
 
-LINEAR_STEPS = np.arange(20, 500, 10)
+LINEAR_STEPS = np.arange(20, 110, 10)  # max 500
 ROTATE_STEPS = np.arange(1, 360, 1)
 
 SPEED = 20
@@ -43,15 +43,15 @@ def make_decision(model, event):
 def get_rnd_command():
     com_w = COMMANDS_LIST[np.random.randint(len(COMMANDS_LIST))]
     if com_w in ['cw', 'ccw']:
-        com_arg = np.random.randint(len(ROTATE_STEPS))
+        com_arg = ROTATE_STEPS[np.random.randint(len(ROTATE_STEPS))]
         command = com_w + ' ' + str(com_arg)
     elif com_w == 'go':
-        com_arg_x = np.random.randint(len(ROTATE_STEPS))
-        com_arg_y = np.random.randint(len(ROTATE_STEPS))
-        com_arg_z = np.random.randint(len(ROTATE_STEPS))
+        com_arg_x = LINEAR_STEPS[np.random.randint(len(LINEAR_STEPS))]
+        com_arg_y = LINEAR_STEPS[np.random.randint(len(LINEAR_STEPS))]
+        com_arg_z = LINEAR_STEPS[np.random.randint(len(LINEAR_STEPS))]
         command = com_w + ' ' + str(com_arg_x) + ' ' + str(com_arg_y) + ' ' + str(com_arg_z) + ' ' + str(SPEED)
     else:
-        com_arg = np.random.randint(len(LINEAR_STEPS))
+        com_arg = LINEAR_STEPS[np.random.randint(len(LINEAR_STEPS))]
         command = com_w + ' ' + str(com_arg)
 
     return command
@@ -67,7 +67,7 @@ def read_command_from_file(path, command_queue):
 #     print(get_rnd_command())
 
 
-commands = []
-read_command_from_file('../fly_programs/program_1', commands)
-for c in commands:
-    print(c)
+# commands = []
+# read_command_from_file('../fly_programs/program_1', commands)
+# for c in commands:
+#     print(c)
