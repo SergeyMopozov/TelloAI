@@ -39,6 +39,29 @@ def make_decision(model, event):
     return next_step
 
 
+def parse_command(command_string, state):
+    string_list = command_string.split(' ')
+    # check arguments in command
+
+    if string_list[0] == 'cw':
+        state['r'] += string_list[1]
+    elif string_list[0] == 'ccw':
+        state['r'] -= string_list[1]
+    elif string_list[0] == 'up':
+        state['z'] += string_list[1]
+    elif string_list[0] == 'down':
+        state['z'] -= string_list[1]
+    elif string_list[0] == 'forward':
+        state['x'] += string_list[1]
+    elif string_list[0] == 'back':
+        state['x'] -= string_list[1]
+    elif string_list[0] == 'left':
+        state['y'] += string_list[1]
+    elif string_list[0] == 'right':
+        state['y'] -= string_list[1]
+    else:
+        return
+
 
 def get_rnd_command():
     com_w = COMMANDS_LIST[np.random.randint(len(COMMANDS_LIST))]

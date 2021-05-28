@@ -4,16 +4,17 @@ Created on Oct 7, 2020
 @author: mrmopoz
 '''
 
-
 from collections import deque
 from brain import presets
 
 MISSION_COMPLETE = False
 STEPS_LIMIT = 20
 
+# accumulate state change
+state = {'x': 0, 'y': 0, 'z': 0, 'r': 0}
+
 
 def controller(command, respond, fly_mode, program_path):
-    
     print('Start controller')
     count = 0
 
@@ -24,8 +25,6 @@ def controller(command, respond, fly_mode, program_path):
         # load fly program
         presets.read_command_from_file(program_path, command_queue)
         presets.end_mission(command_queue)
-
-
 
     # main cycle
     while True:
@@ -53,7 +52,6 @@ def controller(command, respond, fly_mode, program_path):
             if 'error' in resp:
                 command.append(msg)
                 print(msg + ' repeat put in queue')
-            
+
         else:
             continue
-
