@@ -26,6 +26,13 @@ def controller(command, respond, fly_mode, program_path):
         presets.read_command_from_file(program_path, command_queue)
         presets.end_mission(command_queue)
 
+    # TODO need change main cycle:
+    # we have queue of commands we get one (remove from queue) and append it to command list of command object
+    # which send it to Tello and remove from command statement, if we get error respond we use previouse command
+    # while don't get ok (need to limit trials) also for state change we need use only ok commands
+    #
+    #
+
     # main cycle
     while True:
         # first init command
