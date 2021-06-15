@@ -48,6 +48,9 @@ def controller(command, respond, fly_mode, program_path):
             if 'ok' in resp:
                 # check command_queue not empty and get next command
                 if command_queue:
+                    #1. read msg prev for state
+                    #2. if mode RL :
+                    #   command_queue.append(make_decision())
                     msg = command_queue.popleft()
                     command.append(msg)
                     print(msg + ' put in queue')

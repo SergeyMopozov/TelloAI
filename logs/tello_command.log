@@ -5875,3 +5875,865 @@
 2021-05-24 21:30:05,851 INFO Respond: error
 2021-05-24 21:30:05,861 INFO Sent message: b'takeoff'
 2021-05-24 21:30:05,895 INFO Respond: error
+2021-06-14 17:15:50,359 INFO Sent message: b'command'
+2021-06-14 17:15:50,454 INFO Respond: ok
+2021-06-14 17:15:50,464 INFO Sent message: b'streamon'
+2021-06-14 17:15:50,504 INFO Respond: ok
+2021-06-14 17:15:50,524 INFO Sent message: b'takeoff'
+2021-06-14 17:15:52,492 INFO Respond: ok
+2021-06-14 17:15:52,513 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:52,594 INFO Respond: error Motor stop
+2021-06-14 17:15:52,604 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:52,648 INFO Respond: error Motor stop
+2021-06-14 17:15:52,668 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:52,753 INFO Respond: error Motor stop
+2021-06-14 17:15:52,769 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:52,855 INFO Respond: error Motor stop
+2021-06-14 17:15:52,866 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:52,957 INFO Respond: error Motor stop
+2021-06-14 17:15:52,972 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:53,061 INFO Respond: error Motor stop
+2021-06-14 17:15:53,071 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:53,129 INFO Respond: error Motor stop
+2021-06-14 17:15:53,140 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:53,325 INFO Respond: error Motor stop
+2021-06-14 17:15:53,346 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:53,382 INFO Respond: error Motor stop
+2021-06-14 17:15:53,393 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:53,430 INFO Respond: error Motor stop
+2021-06-14 17:15:53,451 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:53,630 INFO Respond: error Motor stop
+2021-06-14 17:15:53,646 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:53,734 INFO Respond: error Motor stop
+2021-06-14 17:15:53,750 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:53,840 INFO Respond: error Motor stop
+2021-06-14 17:15:53,856 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:53,894 INFO Respond: error Motor stop
+2021-06-14 17:15:53,904 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:53,988 INFO Respond: error Motor stop
+2021-06-14 17:15:54,003 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:54,090 INFO Respond: error Motor stop
+2021-06-14 17:15:54,105 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:54,192 INFO Respond: error Motor stop
+2021-06-14 17:15:54,202 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:54,294 INFO Respond: error Motor stop
+2021-06-14 17:15:54,309 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:54,345 INFO Respond: error Motor stop
+2021-06-14 17:15:54,360 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:54,447 INFO Respond: error Motor stop
+2021-06-14 17:15:54,457 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:54,607 INFO Respond: error Motor stop
+2021-06-14 17:15:54,623 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:54,704 INFO Respond: error Motor stop
+2021-06-14 17:15:54,719 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:54,806 INFO Respond: error Motor stop
+2021-06-14 17:15:54,822 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:54,872 INFO Start video
+2021-06-14 17:15:54,909 INFO Respond: error Motor stop
+2021-06-14 17:15:54,930 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:55,010 INFO Respond: error Motor stop
+2021-06-14 17:15:55,036 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:55,111 INFO Respond: error Motor stop
+2021-06-14 17:15:55,122 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:55,219 INFO Respond: error Motor stop
+2021-06-14 17:15:55,229 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:55,269 INFO Respond: error Motor stop
+2021-06-14 17:15:55,284 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:55,366 INFO Respond: error Motor stop
+2021-06-14 17:15:55,372 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:55,423 INFO Respond: error Motor stop
+2021-06-14 17:15:55,439 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:55,574 INFO Respond: error Motor stop
+2021-06-14 17:15:55,589 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:55,678 INFO Respond: error Motor stop
+2021-06-14 17:15:55,704 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:55,730 INFO Respond: error Motor stop
+2021-06-14 17:15:55,741 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:55,929 INFO Respond: error Motor stop
+2021-06-14 17:15:55,944 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:56,030 INFO Respond: error Motor stop
+2021-06-14 17:15:56,041 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:56,129 INFO Respond: error Motor stop
+2021-06-14 17:15:56,150 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:56,189 INFO Respond: error Motor stop
+2021-06-14 17:15:56,204 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:56,288 INFO Respond: error Motor stop
+2021-06-14 17:15:56,298 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:56,390 INFO Respond: error Motor stop
+2021-06-14 17:15:56,409 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:56,500 INFO Respond: error Motor stop
+2021-06-14 17:15:56,521 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:56,594 INFO Respond: error Motor stop
+2021-06-14 17:15:56,610 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:56,645 INFO Respond: error Motor stop
+2021-06-14 17:15:56,665 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:56,747 INFO Respond: error Motor stop
+2021-06-14 17:15:56,763 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:56,885 INFO Respond: error Motor stop
+2021-06-14 17:15:56,900 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:56,977 INFO Respond: error Motor stop
+2021-06-14 17:15:56,987 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:57,069 INFO Respond: error Motor stop
+2021-06-14 17:15:57,085 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:57,171 INFO Respond: error Motor stop
+2021-06-14 17:15:57,195 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:57,276 INFO Respond: error Motor stop
+2021-06-14 17:15:57,287 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:57,397 INFO Respond: error Motor stop
+2021-06-14 17:15:57,402 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:57,481 INFO Respond: error Motor stop
+2021-06-14 17:15:57,501 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:57,538 INFO Respond: error Motor stop
+2021-06-14 17:15:57,549 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:57,839 INFO Respond: error No valid imu
+2021-06-14 17:15:57,854 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:58,092 INFO Respond: error No valid imu
+2021-06-14 17:15:58,116 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:58,348 INFO Respond: error No valid imu
+2021-06-14 17:15:58,364 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:58,650 INFO Respond: error No valid imu
+2021-06-14 17:15:58,671 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:58,919 INFO Respond: error No valid imu
+2021-06-14 17:15:58,945 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:59,209 INFO Respond: error No valid imu
+2021-06-14 17:15:59,224 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:59,466 INFO Respond: error No valid imu
+2021-06-14 17:15:59,488 INFO Sent message: b'ccw 90'
+2021-06-14 17:15:59,775 INFO Respond: error No valid imu
+2021-06-14 17:15:59,795 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:00,031 INFO Respond: error No valid imu
+2021-06-14 17:16:00,050 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:00,339 INFO Respond: error No valid imu
+2021-06-14 17:16:00,354 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:00,590 INFO Respond: error No valid imu
+2021-06-14 17:16:00,600 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:00,842 INFO Respond: error No valid imu
+2021-06-14 17:16:00,853 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:01,100 INFO Respond: error No valid imu
+2021-06-14 17:16:01,120 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:01,353 INFO Respond: error No valid imu
+2021-06-14 17:16:01,369 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:01,617 INFO Respond: error No valid imu
+2021-06-14 17:16:01,632 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:01,864 INFO Respond: error No valid imu
+2021-06-14 17:16:01,880 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:02,081 INFO Respond: error Motor stop
+2021-06-14 17:16:02,091 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:02,172 INFO Respond: error Motor stop
+2021-06-14 17:16:02,183 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:02,270 INFO Respond: error Motor stop
+2021-06-14 17:16:02,292 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:02,327 INFO Respond: error Motor stop
+2021-06-14 17:16:02,343 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:02,533 INFO Respond: error Motor stop
+2021-06-14 17:16:02,543 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:02,630 INFO Respond: error Motor stop
+2021-06-14 17:16:02,645 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:02,736 INFO Respond: error Motor stop
+2021-06-14 17:16:02,746 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:02,788 INFO Respond: error Motor stop
+2021-06-14 17:16:02,812 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:02,888 INFO Respond: error Motor stop
+2021-06-14 17:16:02,904 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:03,020 INFO Respond: error Motor stop
+2021-06-14 17:16:03,030 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:03,093 INFO Respond: error Motor stop
+2021-06-14 17:16:03,114 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:03,155 INFO Respond: error Motor stop
+2021-06-14 17:16:03,170 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:03,266 INFO Respond: error Motor stop
+2021-06-14 17:16:03,282 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:03,352 INFO Respond: error Motor stop
+2021-06-14 17:16:03,377 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:03,454 INFO Respond: error Motor stop
+2021-06-14 17:16:03,469 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:03,512 INFO Respond: error Motor stop
+2021-06-14 17:16:03,527 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:03,737 INFO Respond: error Motor stop
+2021-06-14 17:16:03,752 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:03,814 INFO Respond: error Motor stop
+2021-06-14 17:16:03,830 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:03,866 INFO Respond: error Motor stop
+2021-06-14 17:16:03,885 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:03,977 INFO Respond: error Motor stop
+2021-06-14 17:16:03,998 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:04,080 INFO Respond: error Motor stop
+2021-06-14 17:16:04,095 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:04,177 INFO Respond: error Motor stop
+2021-06-14 17:16:04,188 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:04,224 INFO Respond: error Motor stop
+2021-06-14 17:16:04,235 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:04,381 INFO Respond: error Motor stop
+2021-06-14 17:16:04,396 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:04,428 INFO Respond: error Motor stop
+2021-06-14 17:16:04,434 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:04,581 INFO Respond: error Motor stop
+2021-06-14 17:16:04,601 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:04,632 INFO Respond: error Motor stop
+2021-06-14 17:16:04,649 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:04,791 INFO Respond: error Motor stop
+2021-06-14 17:16:04,806 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:04,888 INFO Respond: error Motor stop
+2021-06-14 17:16:04,894 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:04,939 INFO Respond: error Motor stop
+2021-06-14 17:16:04,960 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:05,109 INFO Respond: error Motor stop
+2021-06-14 17:16:05,120 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:05,196 INFO Respond: error Motor stop
+2021-06-14 17:16:05,212 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:05,243 INFO Respond: error Motor stop
+2021-06-14 17:16:05,259 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:05,402 INFO Respond: error Motor stop
+2021-06-14 17:16:05,426 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:05,456 INFO Respond: error Motor stop
+2021-06-14 17:16:05,467 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:05,559 INFO Respond: error Motor stop
+2021-06-14 17:16:05,576 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:05,612 INFO Respond: error Motor stop
+2021-06-14 17:16:05,633 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:05,813 INFO Respond: error Motor stop
+2021-06-14 17:16:05,830 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:05,916 INFO Respond: error Motor stop
+2021-06-14 17:16:05,937 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:06,019 INFO Respond: error Motor stop
+2021-06-14 17:16:06,045 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:06,077 INFO Respond: error Motor stop
+2021-06-14 17:16:06,100 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:06,173 INFO Respond: error Motor stop
+2021-06-14 17:16:06,183 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:06,273 INFO Respond: error Motor stop
+2021-06-14 17:16:06,294 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:06,375 INFO Respond: error Motor stop
+2021-06-14 17:16:06,386 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:06,471 INFO Respond: error Motor stop
+2021-06-14 17:16:06,487 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:06,527 INFO Respond: error Motor stop
+2021-06-14 17:16:06,543 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:06,622 INFO Stop video
+2021-06-14 17:16:06,688 INFO Respond: error Motor stop
+2021-06-14 17:16:06,704 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:06,780 INFO Respond: error Motor stop
+2021-06-14 17:16:06,795 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:06,841 INFO Respond: error Motor stop
+2021-06-14 17:16:06,857 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:06,995 INFO Respond: error Motor stop
+2021-06-14 17:16:07,006 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:07,094 INFO Respond: error Motor stop
+2021-06-14 17:16:07,105 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:07,191 INFO Respond: error Motor stop
+2021-06-14 17:16:07,201 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:07,295 INFO Respond: error Motor stop
+2021-06-14 17:16:07,310 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:07,345 INFO Respond: error Motor stop
+2021-06-14 17:16:07,355 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:07,504 INFO Respond: error Motor stop
+2021-06-14 17:16:07,520 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:07,554 INFO Respond: error Motor stop
+2021-06-14 17:16:07,574 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:07,656 INFO Respond: error Motor stop
+2021-06-14 17:16:07,666 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:07,754 INFO Respond: error Motor stop
+2021-06-14 17:16:07,764 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:07,816 INFO Respond: error Motor stop
+2021-06-14 17:16:07,827 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:08,015 INFO Respond: error Motor stop
+2021-06-14 17:16:08,035 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:08,112 INFO Respond: error Motor stop
+2021-06-14 17:16:08,123 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:08,215 INFO Respond: error Motor stop
+2021-06-14 17:16:08,230 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:08,279 INFO Respond: error Motor stop
+2021-06-14 17:16:08,295 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:08,378 INFO Respond: error Motor stop
+2021-06-14 17:16:08,388 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:08,481 INFO Respond: error Motor stop
+2021-06-14 17:16:08,496 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:08,577 INFO Respond: error Motor stop
+2021-06-14 17:16:08,592 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:08,679 INFO Respond: error Motor stop
+2021-06-14 17:16:08,699 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:08,730 INFO Respond: error Motor stop
+2021-06-14 17:16:08,740 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:08,935 INFO Respond: error Motor stop
+2021-06-14 17:16:08,950 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:09,035 INFO Respond: error Motor stop
+2021-06-14 17:16:09,050 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:09,144 INFO Respond: error Motor stop
+2021-06-14 17:16:09,170 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:09,245 INFO Respond: error Motor stop
+2021-06-14 17:16:09,265 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:09,399 INFO Respond: error Motor stop
+2021-06-14 17:16:09,420 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:09,491 INFO Respond: error Motor stop
+2021-06-14 17:16:09,496 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:09,542 INFO Respond: error Motor stop
+2021-06-14 17:16:09,553 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:09,701 INFO Respond: error Motor stop
+2021-06-14 17:16:09,721 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:09,747 INFO Respond: error Motor stop
+2021-06-14 17:16:09,757 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:09,849 INFO Respond: error Motor stop
+2021-06-14 17:16:09,864 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:09,954 INFO Respond: error Motor stop
+2021-06-14 17:16:09,980 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:10,061 INFO Respond: error Motor stop
+2021-06-14 17:16:10,076 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:10,116 INFO Respond: error Motor stop
+2021-06-14 17:16:10,127 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:10,308 INFO Respond: error Motor stop
+2021-06-14 17:16:10,319 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:10,410 INFO Respond: error Motor stop
+2021-06-14 17:16:10,426 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:10,522 INFO Respond: error Motor stop
+2021-06-14 17:16:10,532 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:10,577 INFO Respond: error Motor stop
+2021-06-14 17:16:10,587 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:10,677 INFO Respond: error Motor stop
+2021-06-14 17:16:10,692 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:10,771 INFO Respond: error Motor stop
+2021-06-14 17:16:10,781 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:10,874 INFO Respond: error Motor stop
+2021-06-14 17:16:10,884 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:10,924 INFO Respond: error Motor stop
+2021-06-14 17:16:10,944 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:11,083 INFO Respond: error Motor stop
+2021-06-14 17:16:11,094 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:11,128 INFO Respond: error Motor stop
+2021-06-14 17:16:11,143 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:11,338 INFO Respond: error Motor stop
+2021-06-14 17:16:11,354 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:11,436 INFO Respond: error Motor stop
+2021-06-14 17:16:11,447 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:11,496 INFO Respond: error Motor stop
+2021-06-14 17:16:11,501 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:11,587 INFO Respond: error Motor stop
+2021-06-14 17:16:11,592 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:11,639 INFO Respond: error Motor stop
+2021-06-14 17:16:11,649 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:11,797 INFO Respond: error Motor stop
+2021-06-14 17:16:11,807 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:11,893 INFO Respond: error Motor stop
+2021-06-14 17:16:11,914 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:11,944 INFO Respond: error Motor stop
+2021-06-14 17:16:11,959 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:12,047 INFO Respond: error Motor stop
+2021-06-14 17:16:12,058 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:12,150 INFO Respond: error Motor stop
+2021-06-14 17:16:16,007 INFO Sent message: b'command'
+2021-06-14 17:16:16,044 INFO Respond: ok
+2021-06-14 17:16:16,055 INFO Sent message: b'streamon'
+2021-06-14 17:16:16,082 INFO Respond: ok
+2021-06-14 17:16:16,092 INFO Sent message: b'takeoff'
+2021-06-14 17:16:18,584 INFO Respond: ok
+2021-06-14 17:16:18,595 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:18,845 INFO Respond: error Motor stop
+2021-06-14 17:16:18,855 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:18,992 INFO Respond: error Motor stop
+2021-06-14 17:16:19,007 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:19,054 INFO Respond: error Motor stop
+2021-06-14 17:16:19,074 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:19,146 INFO Respond: error Motor stop
+2021-06-14 17:16:19,161 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:19,249 INFO Respond: error Motor stop
+2021-06-14 17:16:19,264 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:19,352 INFO Respond: error Motor stop
+2021-06-14 17:16:19,362 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:19,406 INFO Respond: error Motor stop
+2021-06-14 17:16:19,431 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:19,608 INFO Respond: error Motor stop
+2021-06-14 17:16:19,623 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:19,711 INFO Respond: error Motor stop
+2021-06-14 17:16:19,732 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:19,817 INFO Respond: error Motor stop
+2021-06-14 17:16:19,832 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:19,868 INFO Respond: error Motor stop
+2021-06-14 17:16:19,879 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:19,972 INFO Respond: error Motor stop
+2021-06-14 17:16:19,983 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:20,069 INFO Respond: error Motor stop
+2021-06-14 17:16:20,079 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:20,176 INFO Respond: error Motor stop
+2021-06-14 17:16:20,202 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:20,273 INFO Respond: error Motor stop
+2021-06-14 17:16:20,283 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:20,335 INFO Respond: error Motor stop
+2021-06-14 17:16:20,350 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:20,528 INFO Respond: error Motor stop
+2021-06-14 17:16:20,549 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:20,568 INFO Start video
+2021-06-14 17:16:20,640 INFO Respond: error Motor stop
+2021-06-14 17:16:20,646 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:20,733 INFO Respond: error Motor stop
+2021-06-14 17:16:20,749 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:20,787 INFO Respond: error Motor stop
+2021-06-14 17:16:20,808 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:20,891 INFO Respond: error Motor stop
+2021-06-14 17:16:20,901 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:20,988 INFO Respond: error Motor stop
+2021-06-14 17:16:21,018 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:21,089 INFO Respond: error Motor stop
+2021-06-14 17:16:21,108 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:21,192 INFO Respond: error Motor stop
+2021-06-14 17:16:21,207 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:21,244 INFO Respond: error Motor stop
+2021-06-14 17:16:21,263 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:21,391 INFO Respond: error Motor stop
+2021-06-14 17:16:21,418 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:21,444 INFO Respond: error Motor stop
+2021-06-14 17:16:21,470 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:21,550 INFO Respond: error Motor stop
+2021-06-14 17:16:21,566 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:21,652 INFO Respond: error Motor stop
+2021-06-14 17:16:21,668 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:21,754 INFO Respond: error Motor stop
+2021-06-14 17:16:21,770 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:21,806 INFO Respond: error Motor stop
+2021-06-14 17:16:21,830 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:22,011 INFO Respond: error Motor stop
+2021-06-14 17:16:22,021 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:22,107 INFO Respond: error Motor stop
+2021-06-14 17:16:22,118 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:22,160 INFO Respond: error Motor stop
+2021-06-14 17:16:22,176 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:22,217 INFO Respond: error Motor stop
+2021-06-14 17:16:22,242 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:22,418 INFO Respond: error Motor stop
+2021-06-14 17:16:22,444 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:22,520 INFO Respond: error Motor stop
+2021-06-14 17:16:22,536 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:22,578 INFO Respond: error Motor stop
+2021-06-14 17:16:22,589 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:22,630 INFO Respond: error Motor stop
+2021-06-14 17:16:22,640 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:22,832 INFO Respond: error Motor stop
+2021-06-14 17:16:22,837 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:22,932 INFO Respond: error Motor stop
+2021-06-14 17:16:22,937 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:23,033 INFO Respond: error Motor stop
+2021-06-14 17:16:23,059 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:23,085 INFO Respond: error Motor stop
+2021-06-14 17:16:23,100 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:23,135 INFO Respond: error Motor stop
+2021-06-14 17:16:23,146 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:23,442 INFO Respond: error No valid imu
+2021-06-14 17:16:23,452 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:23,494 INFO Respond: error Motor stop
+2021-06-14 17:16:23,513 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:23,544 INFO Respond: error Motor stop
+2021-06-14 17:16:23,565 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:23,703 INFO Respond: error Motor stop
+2021-06-14 17:16:23,722 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:23,810 INFO Respond: error Motor stop
+2021-06-14 17:16:23,831 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:23,908 INFO Respond: error Motor stop
+2021-06-14 17:16:23,927 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:24,013 INFO Respond: error Motor stop
+2021-06-14 17:16:24,028 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:24,158 INFO Respond: error Motor stop
+2021-06-14 17:16:24,173 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:24,258 INFO Respond: error Motor stop
+2021-06-14 17:16:24,274 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:24,330 INFO Respond: error Motor stop
+2021-06-14 17:16:24,335 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:24,531 INFO Respond: error Motor stop
+2021-06-14 17:16:24,555 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:24,628 INFO Respond: error Motor stop
+2021-06-14 17:16:24,644 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:24,725 INFO Respond: error Motor stop
+2021-06-14 17:16:24,753 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:25,035 INFO Respond: error No valid imu
+2021-06-14 17:16:25,051 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:25,285 INFO Respond: error No valid imu
+2021-06-14 17:16:25,301 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:25,588 INFO Respond: error No valid imu
+2021-06-14 17:16:25,604 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:25,861 INFO Respond: error No valid imu
+2021-06-14 17:16:25,876 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:26,114 INFO Respond: error No valid imu
+2021-06-14 17:16:26,119 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:26,369 INFO Respond: error No valid imu
+2021-06-14 17:16:26,385 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:26,626 INFO Respond: error No valid imu
+2021-06-14 17:16:26,642 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:26,931 INFO Respond: error No valid imu
+2021-06-14 17:16:26,937 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:27,188 INFO Respond: error No valid imu
+2021-06-14 17:16:27,219 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:27,392 INFO Respond: error Motor stop
+2021-06-14 17:16:27,408 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:27,502 INFO Respond: error Motor stop
+2021-06-14 17:16:27,518 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:27,548 INFO Respond: error Motor stop
+2021-06-14 17:16:27,559 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:27,648 INFO Respond: error Motor stop
+2021-06-14 17:16:27,669 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:27,955 INFO Respond: error No valid imu
+2021-06-14 17:16:27,981 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:28,207 INFO Respond: error No valid imu
+2021-06-14 17:16:28,222 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:28,471 INFO Respond: error No valid imu
+2021-06-14 17:16:28,486 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:28,775 INFO Respond: error No valid imu
+2021-06-14 17:16:28,806 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:29,046 INFO Respond: error No valid imu
+2021-06-14 17:16:29,056 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:29,333 INFO Respond: error No valid imu
+2021-06-14 17:16:29,348 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:29,590 INFO Respond: error No valid imu
+2021-06-14 17:16:29,606 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:29,844 INFO Respond: error No valid imu
+2021-06-14 17:16:29,859 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:30,207 INFO Respond: error No valid imu
+2021-06-14 17:16:30,222 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:30,479 INFO Respond: error No valid imu
+2021-06-14 17:16:30,489 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:30,739 INFO Respond: error No valid imu
+2021-06-14 17:16:30,750 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:31,034 INFO Respond: error No valid imu
+2021-06-14 17:16:31,045 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:31,285 INFO Respond: error No valid imu
+2021-06-14 17:16:31,301 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:31,545 INFO Respond: error No valid imu
+2021-06-14 17:16:31,555 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:31,857 INFO Respond: error No valid imu
+2021-06-14 17:16:31,872 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:32,111 INFO Respond: error No valid imu
+2021-06-14 17:16:32,121 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:32,413 INFO Respond: error No valid imu
+2021-06-14 17:16:32,439 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:32,672 INFO Respond: error No valid imu
+2021-06-14 17:16:32,688 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:32,973 INFO Respond: error No valid imu
+2021-06-14 17:16:32,994 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:33,232 INFO Respond: error No valid imu
+2021-06-14 17:16:33,253 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:33,482 INFO Respond: error No valid imu
+2021-06-14 17:16:33,506 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:33,749 INFO Respond: error No valid imu
+2021-06-14 17:16:33,768 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:34,055 INFO Respond: error No valid imu
+2021-06-14 17:16:34,070 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:34,352 INFO Respond: error No valid imu
+2021-06-14 17:16:34,362 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:34,604 INFO Respond: error No valid imu
+2021-06-14 17:16:34,625 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:34,911 INFO Respond: error No valid imu
+2021-06-14 17:16:34,932 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:35,174 INFO Respond: error No valid imu
+2021-06-14 17:16:35,199 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:35,433 INFO Respond: error No valid imu
+2021-06-14 17:16:35,449 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:35,730 INFO Respond: error No valid imu
+2021-06-14 17:16:35,745 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:35,991 INFO Respond: error No valid imu
+2021-06-14 17:16:36,006 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:36,240 INFO Respond: error No valid imu
+2021-06-14 17:16:36,262 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:36,506 INFO Respond: error No valid imu
+2021-06-14 17:16:36,521 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:36,807 INFO Respond: error No valid imu
+2021-06-14 17:16:36,832 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:37,114 INFO Respond: error No valid imu
+2021-06-14 17:16:37,124 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:37,367 INFO Respond: error No valid imu
+2021-06-14 17:16:37,383 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:37,692 INFO Respond: error No valid imu
+2021-06-14 17:16:37,713 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:37,977 INFO Respond: error No valid imu
+2021-06-14 17:16:37,998 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:38,236 INFO Respond: error No valid imu
+2021-06-14 17:16:38,251 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:38,491 INFO Respond: error No valid imu
+2021-06-14 17:16:38,512 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:38,743 INFO Respond: error Motor stop
+2021-06-14 17:16:38,764 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:38,899 INFO Respond: error Motor stop
+2021-06-14 17:16:38,919 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:39,156 INFO Respond: error No valid imu
+2021-06-14 17:16:39,166 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:39,410 INFO Respond: error No valid imu
+2021-06-14 17:16:39,431 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:39,666 INFO Respond: error No valid imu
+2021-06-14 17:16:39,682 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:39,920 INFO Respond: error No valid imu
+2021-06-14 17:16:39,941 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:40,230 INFO Respond: error No valid imu
+2021-06-14 17:16:40,245 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:40,486 INFO Respond: error Motor stop
+2021-06-14 17:16:40,506 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:40,594 INFO Respond: error Motor stop
+2021-06-14 17:16:40,615 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:40,691 INFO Respond: error Motor stop
+2021-06-14 17:16:40,711 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:40,794 INFO Respond: error Motor stop
+2021-06-14 17:16:40,809 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:40,841 INFO Respond: error Motor stop
+2021-06-14 17:16:40,862 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:40,944 INFO Respond: error Motor stop
+2021-06-14 17:16:40,959 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:41,104 INFO Respond: error Motor stop
+2021-06-14 17:16:41,131 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:41,200 INFO Respond: error Motor stop
+2021-06-14 17:16:41,230 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:41,307 INFO Respond: error Motor stop
+2021-06-14 17:16:41,322 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:41,412 INFO Respond: error Motor stop
+2021-06-14 17:16:41,422 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:41,513 INFO Respond: error Motor stop
+2021-06-14 17:16:41,529 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:41,606 INFO Respond: error Motor stop
+2021-06-14 17:16:41,622 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:41,716 INFO Respond: error Motor stop
+2021-06-14 17:16:41,742 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:41,849 INFO Respond: error Motor stop
+2021-06-14 17:16:41,864 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:41,918 INFO Respond: error Motor stop
+2021-06-14 17:16:41,933 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:42,078 INFO Respond: error Motor stop
+2021-06-14 17:16:42,099 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:42,170 INFO Respond: error Motor stop
+2021-06-14 17:16:42,180 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:42,222 INFO Respond: error Motor stop
+2021-06-14 17:16:42,233 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:42,379 INFO Respond: error Motor stop
+2021-06-14 17:16:42,401 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:42,479 INFO Respond: error Motor stop
+2021-06-14 17:16:42,495 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:42,579 INFO Respond: error Motor stop
+2021-06-14 17:16:42,600 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:42,686 INFO Respond: error Motor stop
+2021-06-14 17:16:42,701 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:43,006 INFO Respond: error No valid imu
+2021-06-14 17:16:43,017 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:43,299 INFO Respond: error No valid imu
+2021-06-14 17:16:43,315 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:43,550 INFO Respond: error No valid imu
+2021-06-14 17:16:43,566 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:43,804 INFO Respond: error No valid imu
+2021-06-14 17:16:43,815 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:44,121 INFO Respond: error No valid imu
+2021-06-14 17:16:44,137 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:44,316 INFO Respond: error Motor stop
+2021-06-14 17:16:44,321 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:44,371 INFO Respond: error Motor stop
+2021-06-14 17:16:44,391 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:44,470 INFO Respond: error Motor stop
+2021-06-14 17:16:44,496 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:44,575 INFO Respond: error Motor stop
+2021-06-14 17:16:44,581 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:44,621 INFO Respond: error Motor stop
+2021-06-14 17:16:44,649 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:44,831 INFO Respond: error Motor stop
+2021-06-14 17:16:44,846 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:44,930 INFO Respond: error Motor stop
+2021-06-14 17:16:44,940 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:45,040 INFO Respond: error Motor stop
+2021-06-14 17:16:45,061 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:45,138 INFO Respond: error Motor stop
+2021-06-14 17:16:45,158 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:45,297 INFO Respond: error Motor stop
+2021-06-14 17:16:45,313 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:45,384 INFO Respond: error Motor stop
+2021-06-14 17:16:45,415 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:45,498 INFO Respond: error Motor stop
+2021-06-14 17:16:45,509 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:45,546 INFO Respond: error Motor stop
+2021-06-14 17:16:45,562 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:45,646 INFO Respond: error Motor stop
+2021-06-14 17:16:45,662 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:45,747 INFO Respond: error Motor stop
+2021-06-14 17:16:45,763 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:45,848 INFO Respond: error Motor stop
+2021-06-14 17:16:45,868 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:45,899 INFO Respond: error Motor stop
+2021-06-14 17:16:45,915 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:46,122 INFO Respond: error Motor stop
+2021-06-14 17:16:46,138 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:46,212 INFO Respond: error Motor stop
+2021-06-14 17:16:46,227 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:46,322 INFO Respond: error Motor stop
+2021-06-14 17:16:46,337 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:46,415 INFO Respond: error Motor stop
+2021-06-14 17:16:46,430 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:46,469 INFO Respond: error Motor stop
+2021-06-14 17:16:46,490 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:46,568 INFO Respond: error Motor stop
+2021-06-14 17:16:46,593 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:46,674 INFO Respond: error Motor stop
+2021-06-14 17:16:46,690 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:46,721 INFO Respond: error Motor stop
+2021-06-14 17:16:46,741 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:46,931 INFO Respond: error Motor stop
+2021-06-14 17:16:46,942 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:47,028 INFO Respond: error Motor stop
+2021-06-14 17:16:47,043 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:47,132 INFO Respond: error Motor stop
+2021-06-14 17:16:47,152 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:47,186 INFO Respond: error Motor stop
+2021-06-14 17:16:47,202 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:47,280 INFO Respond: error Motor stop
+2021-06-14 17:16:47,306 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:47,383 INFO Respond: error Motor stop
+2021-06-14 17:16:47,399 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:47,442 INFO Respond: error Motor stop
+2021-06-14 17:16:47,458 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:47,545 INFO Respond: error Motor stop
+2021-06-14 17:16:47,555 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:47,652 INFO Respond: error Motor stop
+2021-06-14 17:16:47,673 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:47,743 INFO Respond: error Motor stop
+2021-06-14 17:16:47,759 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:47,846 INFO Respond: error Motor stop
+2021-06-14 17:16:47,861 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:47,958 INFO Respond: error Motor stop
+2021-06-14 17:16:47,968 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:48,053 INFO Respond: error Motor stop
+2021-06-14 17:16:48,074 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:48,111 INFO Respond: error Motor stop
+2021-06-14 17:16:48,117 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:48,322 INFO Respond: error Motor stop
+2021-06-14 17:16:48,332 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:48,409 INFO Respond: error Motor stop
+2021-06-14 17:16:48,420 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:48,510 INFO Respond: error Motor stop
+2021-06-14 17:16:48,531 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:48,611 INFO Respond: error Motor stop
+2021-06-14 17:16:48,627 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:48,662 INFO Respond: error Motor stop
+2021-06-14 17:16:48,673 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:48,721 INFO Respond: error Motor stop
+2021-06-14 17:16:48,737 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:48,874 INFO Respond: error Motor stop
+2021-06-14 17:16:48,884 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:48,981 INFO Respond: error Motor stop
+2021-06-14 17:16:48,991 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:49,022 INFO Respond: error Motor stop
+2021-06-14 17:16:49,037 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:49,228 INFO Respond: error Motor stop
+2021-06-14 17:16:49,248 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:49,333 INFO Respond: error Motor stop
+2021-06-14 17:16:49,364 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:49,433 INFO Respond: error Motor stop
+2021-06-14 17:16:49,449 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:49,499 INFO Respond: error Motor stop
+2021-06-14 17:16:49,510 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:49,586 INFO Respond: error Motor stop
+2021-06-14 17:16:49,607 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:49,689 INFO Respond: error Motor stop
+2021-06-14 17:16:49,704 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:49,798 INFO Respond: error Motor stop
+2021-06-14 17:16:49,804 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:49,845 INFO Respond: error Motor stop
+2021-06-14 17:16:49,867 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:49,945 INFO Respond: error Motor stop
+2021-06-14 17:16:49,961 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:50,047 INFO Respond: error Motor stop
+2021-06-14 17:16:50,062 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:50,147 INFO Respond: error Motor stop
+2021-06-14 17:16:50,163 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:50,248 INFO Respond: error Motor stop
+2021-06-14 17:16:50,269 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:50,312 INFO Respond: error Motor stop
+2021-06-14 17:16:50,343 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:50,531 INFO Respond: error Motor stop
+2021-06-14 17:16:50,542 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:50,611 INFO Respond: error Motor stop
+2021-06-14 17:16:50,632 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:50,713 INFO Respond: error Motor stop
+2021-06-14 17:16:50,744 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:50,766 INFO Respond: error Motor stop
+2021-06-14 17:16:50,782 INFO Sent message: b'ccw 90'
+2021-06-14 17:16:54,518 INFO Sent message: b'command'
+2021-06-14 17:16:54,550 INFO Respond: ok
+2021-06-14 17:16:54,565 INFO Sent message: b'streamon'
+2021-06-14 17:16:54,597 INFO Respond: ok
+2021-06-14 17:16:54,623 INFO Sent message: b'takeoff'
+2021-06-14 17:16:58,875 INFO Start video
+2021-06-14 17:17:01,800 INFO Respond: ok
+2021-06-14 17:17:01,816 INFO Sent message: b'ccw 90'
+2021-06-14 17:17:03,990 INFO Respond: ok
+2021-06-14 17:17:04,005 INFO Sent message: b'up 20'
+2021-06-14 17:17:06,200 INFO Respond: ok
+2021-06-14 17:17:06,215 INFO Sent message: b'ccw 90'
+2021-06-14 17:17:08,381 INFO Respond: ok
+2021-06-14 17:17:08,410 INFO Sent message: b'left 20'
+2021-06-14 17:17:10,024 INFO Respond: ok
+2021-06-14 17:17:10,040 INFO Sent message: b'ccw 90'
+2021-06-14 17:17:12,177 INFO Respond: ok
+2021-06-14 17:17:12,193 INFO Sent message: b'up 20'
+2021-06-14 17:17:13,765 INFO Respond: ok
+2021-06-14 17:17:13,781 INFO Sent message: b'left 20'
+2021-06-14 17:17:15,346 INFO Respond: ok
+2021-06-14 17:17:15,372 INFO Sent message: b'ccw 90'
+2021-06-14 17:17:17,544 INFO Respond: ok
+2021-06-14 17:17:17,565 INFO Sent message: b'down 20'
+2021-06-14 17:17:19,642 INFO Respond: ok
+2021-06-14 17:17:19,658 INFO Sent message: b'land'
+2021-06-14 17:17:23,617 INFO Respond: ok
+2021-06-14 17:17:23,627 INFO Sent message: b'streamoff'
+2021-06-14 17:17:23,672 INFO Respond: ok
+2021-06-14 17:17:23,693 INFO Sent message: b'end'
+2021-06-14 17:17:23,718 INFO Respond: unknown command: end
+2021-06-14 18:31:43,198 INFO Sent message: b'command'
+2021-06-14 18:32:40,323 INFO Sent message: b'command'
+2021-06-14 18:32:40,329 INFO Respond: ok
+2021-06-14 18:32:40,344 INFO Sent message: b'streamon'
+2021-06-14 18:32:40,384 INFO Respond: ok
+2021-06-14 18:32:40,400 INFO Sent message: b'takeoff'
+2021-06-14 18:32:45,050 INFO Start video
+2021-06-14 18:32:49,111 INFO Respond: ok
+2021-06-14 18:32:49,121 INFO Sent message: b'ccw 90'
+2021-06-14 18:32:51,258 INFO Respond: ok
+2021-06-14 18:32:51,278 INFO Sent message: b'up 20'
+2021-06-14 18:32:53,400 INFO Respond: ok
+2021-06-14 18:32:53,410 INFO Sent message: b'ccw 90'
+2021-06-14 18:32:55,287 INFO Respond: ok
+2021-06-14 18:32:55,302 INFO Sent message: b'left 20'
+2021-06-14 18:32:56,766 INFO Respond: ok
+2021-06-14 18:32:56,782 INFO Sent message: b'ccw 90'
+2021-06-14 18:32:58,955 INFO Respond: ok
+2021-06-14 18:32:58,971 INFO Sent message: b'up 20'
+2021-06-14 18:33:00,743 INFO Respond: ok
+2021-06-14 18:33:00,754 INFO Sent message: b'left 20'
+2021-06-14 18:33:02,219 INFO Respond: ok
+2021-06-14 18:33:02,230 INFO Sent message: b'ccw 90'
+2021-06-14 18:33:04,420 INFO Respond: ok
+2021-06-14 18:33:04,430 INFO Sent message: b'down 20'
+2021-06-14 18:33:06,414 INFO Respond: ok
+2021-06-14 18:33:06,430 INFO Sent message: b'land'
+2021-06-14 18:33:09,258 INFO Respond: ok
+2021-06-14 18:33:09,283 INFO Sent message: b'streamoff'
+2021-06-14 18:33:09,315 INFO Respond: ok
+2021-06-14 18:33:09,346 INFO Sent message: b'end'
+2021-06-14 18:33:09,362 INFO Respond: unknown command: end
+2021-06-14 18:34:31,721 INFO Sent message: b'command'
+2021-06-14 18:34:31,736 INFO Respond: ok
+2021-06-14 18:34:31,752 INFO Sent message: b'streamon'
+2021-06-14 18:34:31,789 INFO Respond: ok
+2021-06-14 18:34:31,815 INFO Sent message: b'takeoff'
+2021-06-14 18:34:36,254 INFO Start video
+2021-06-14 18:34:40,408 INFO Respond: ok
+2021-06-14 18:34:40,423 INFO Sent message: b'ccw 90'
+2021-06-14 18:34:42,448 INFO Respond: ok
+2021-06-14 18:34:42,463 INFO Sent message: b'up 20'
+2021-06-14 18:34:44,905 INFO Respond: ok
+2021-06-14 18:34:44,926 INFO Sent message: b'ccw 90'
+2021-06-14 18:34:47,102 INFO Respond: ok
+2021-06-14 18:34:47,112 INFO Sent message: b'left 20'
+2021-06-14 18:34:48,835 INFO Respond: ok
+2021-06-14 18:34:48,850 INFO Sent message: b'ccw 90'
+2021-06-14 18:34:50,975 INFO Respond: ok
+2021-06-14 18:34:50,986 INFO Sent message: b'up 20'
+2021-06-14 18:34:53,095 INFO Respond: ok
+2021-06-14 18:34:53,119 INFO Sent message: b'left 20'
+2021-06-14 18:34:54,779 INFO Respond: ok
+2021-06-14 18:34:54,817 INFO Sent message: b'ccw 90'
+2021-06-14 18:34:56,925 INFO Respond: ok
+2021-06-14 18:34:56,935 INFO Sent message: b'down 20'
+2021-06-14 18:34:58,911 INFO Respond: ok
+2021-06-14 18:34:58,927 INFO Sent message: b'land'
+2021-06-14 18:35:03,598 INFO Respond: ok
+2021-06-14 18:35:03,619 INFO Sent message: b'streamoff'
+2021-06-14 18:35:03,653 INFO Respond: ok
+2021-06-14 18:35:03,674 INFO Sent message: b'end'
+2021-06-14 18:35:03,710 INFO Respond: unknown command: end

@@ -38,7 +38,7 @@ def make_decision(model, event):
 
     return next_step
 
-
+# TODO
 def parse_command(command_string, state):
     string_list = command_string.split(' ')
     # check arguments in command

@@ -4,6 +4,7 @@ Created on Oct 7, 2020
 @author: mrmopoz
 '''
 import cv2
+from brain.process_video import object_detection_api_video
 
 
 # get video stream
