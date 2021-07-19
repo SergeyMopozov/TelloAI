@@ -1,4 +1,3 @@
-
 # import necessary libraries
 from PIL import Image
 import matplotlib.pyplot as plt
@@ -34,8 +33,9 @@ COCO_INSTANCE_CATEGORY_NAMES = [
     'clock', 'vase', 'scissors', 'teddy bear', 'hair drier', 'toothbrush'
 ]
 
+
 def get_prediction_video(img, threshold):
-  """
+    """
   get_prediction
     parameters:
       - img_path - path of the input image
@@ -48,27 +48,27 @@ def get_prediction_video(img, threshold):
         are chosen.
     
   """
-  transform = T.Compose([T.ToTensor()])
-  img = transform(img).cuda()
-  pred = model([img])
+    transform = T.Compose([T.ToTensor()])
+    img = transform(img).cuda()
+    pred = model([img])
 
-  pred_class = [COCO_INSTANCE_CATEGORY_NAMES[i] for i in list(pred[0]['labels'].cpu().numpy())]
-  pred_boxes = [[(i[0], i[1]), (i[2], i[3])] for i in list(pred[0]['boxes'].cpu().detach().numpy())]
-  pred_score = list(pred[0]['scores'].cpu().detach().numpy())
+    pred_class = [COCO_INSTANCE_CATEGORY_NAMES[i] for i in list(pred[0]['labels'].cpu().numpy())]
+    pred_boxes = [[(i[0], i[1]), (i[2], i[3])] for i in list(pred[0]['boxes'].cpu().detach().numpy())]
+    pred_score = list(pred[0]['scores'].cpu().detach().numpy())
 
-  if len(pred_score)  != 0:
-      pred_t = [pred_score.index(x) for x in pred_score if x>threshold][-1]
-      pred_boxes = pred_boxes[:pred_t+1]
-      pred_class = pred_class[:pred_t+1]
-  else:
-    pred_boxes = []
-    pred_class = []
-    
-  return pred_boxes, pred_class
+    if len(pred_score) != 0:
+        pred_t = [pred_score.index(x) for x in pred_score if x > threshold][-1]
+        pred_boxes = pred_boxes[:pred_t + 1]
+        pred_class = pred_class[:pred_t + 1]
+    else:
+        pred_boxes = []
+        pred_class = []
+
+    return pred_boxes, pred_class
 
 
 def object_detection_api_video(img, threshold=0.5, rect_th=3, text_size=3, text_th=3):
-  """
+    """
   object_detection_api
     parameters:
       - img_path - path of the input image
@@ -82,14 +82,14 @@ def object_detection_api_video(img, threshold=0.5, rect_th=3, text_size=3, text_
         with opencv
       - the final image is displayed
   """
-  boxes, pred_cls = get_prediction_video(img, threshold)
-  #img = cv2.imread(img_path)
-  #img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
-  
-  if len(boxes) != 0:
-      for i in range(len(boxes)):
+    boxes, pred_cls = get_prediction_video(img, threshold)
+    # img = cv2.imread(img_path)
+    # img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 
-        cv2.rectangle(img, boxes[i][0], boxes[i][1],color=(0, 255, 0), thickness=rect_th)
-        cv2.putText(img,pred_cls[i], boxes[i][0], cv2.FONT_HERSHEY_SIMPLEX, text_size, (0,255,0),thickness=text_th)
+    if len(boxes) != 0:
+        for i in range(len(boxes)):
+            cv2.rectangle(img, boxes[i][0], boxes[i][1], color=(0, 255, 0), thickness=rect_th)
+            cv2.putText(img, pred_cls[i], boxes[i][0], cv2.FONT_HERSHEY_SIMPLEX, text_size, (0, 255, 0),
+                        thickness=text_th)
 
-  return img
+    return img
